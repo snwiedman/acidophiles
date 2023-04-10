@@ -1,0 +1,1157 @@
+﻿id,function.,NoFeR1,NoFeR2,NoFeR3,FeR1,FeR2,FeR3
+ref|YP_001190102.1,ORC complex protein Cdc6/Orc1 (gi|146302786),0,0,0,1,2,0
+ref|YP_001190105.1,nicotinamide-nucleotide adenylyltransferase (gi|146302789),7,5,3,3,2,5
+ref|YP_001190106.1,hypothetical protein Msed_0005 (gi|146302790),3,7,3,5,5,4
+ref|YP_001190107.1,adenylate cyclase (gi|146302791),8,6,6,4,5,8
+ref|YP_001190110.1,DNA repair and recombination protein RadA (gi|146302794),13,11,13,9,12,14
+ref|YP_001190111.1,histidine triad (HIT) protein (gi|146302795),7,5,4,4,5,4
+ref|YP_001190112.1,threonine dehydratase (gi|146302796),16,14,11,13,14,13
+ref|YP_001190114.1,AsnC family transcriptional regulator (gi|146302798),12,14,14,7,6,10
+ref|YP_001190115.1,FAD dependent oxidoreductase (gi|146302799),2,5,2,0,0,1
+ref|YP_001190116.1,adenylosuccinate synthetase (gi|146302800),8,7,6,2,1,2
+ref|YP_001190117.1,5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase (gi|146302801),8,9,8,10,9,9
+ref|YP_001190118.1,5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase (gi|146302802),8,9,8,12,8,8
+ref|YP_001190119.1,adenylosuccinate lyase (gi|146302803),17,20,18,21,15,17
+ref|YP_001190121.1,radical SAM protein (gi|146302805),7,9,7,1,0,13
+ref|YP_001190124.1,phosphoribosyltransferase (gi|146302808),0,0,0,3,1,1
+ref|YP_001190125.1,aspartyl/glutamyl-tRNA amidotransferase subunit B (gi|146302809),7,7,9,14,14,11
+ref|YP_001190126.1,cytidine deaminase (gi|146302810),1,0,0,0,0,0
+ref|YP_001190127.1,uracil phosphoribosyltransferase (gi|146302811),3,2,3,5,2,2
+ref|YP_001190128.1,30S ribosomal protein S28e (gi|146302812),1,0,1,1,0,1
+ref|YP_001190129.1,50S ribosomal protein L24 (gi|146302813),1,1,1,1,1,1
+ref|YP_001190130.1,nucleoside diphosphate kinase (gi|146302814),12,7,5,3,2,6
+ref|YP_001190131.1,translation initiation factor IF-2 (gi|146302815),8,11,8,9,10,7
+ref|YP_001190132.1,malate dehydrogenase (gi|146302816),5,5,6,6,6,2
+ref|YP_001190133.1,DNA-directed RNA polymerase subunit H (gi|146302817),4,5,5,3,4,3
+ref|YP_001190134.1,DNA-directed RNA polymerase subunit B (gi|146302818),40,40,35,46,45,34
+ref|YP_001190135.1,DNA-directed RNA polymerase subunit A' (gi|146302819),25,26,25,24,23,23
+ref|YP_001190136.1,DNA-directed RNA polymerase subunit A'' (gi|146302820),9,12,10,14,10,10
+ref|YP_001190137.1,50S ribosomal protein L30e (gi|146302821),2,1,0,0,1,0
+ref|YP_001190138.1,transcription elongation factor NusA-like protein (gi|146302822),1,4,2,3,5,3
+ref|YP_001190139.1,30S ribosomal protein S12 (gi|146302823),8,8,7,8,8,7
+ref|YP_001190140.1,hypothetical protein Msed_0039 (gi|146302824),2,2,1,3,4,2
+ref|YP_001190141.1,30S ribosomal protein S7 (gi|146302825),14,15,16,15,17,14
+ref|YP_001190142.1,elongation factor 1-alpha (gi|146302826),83,95,83,81,84,72
+ref|YP_001190143.1,30S ribosomal protein S10P (gi|146302827),7,6,5,7,4,5
+ref|YP_001190145.1,hypothetical protein Msed_0044 (gi|146302829),8,12,11,10,12,11
+ref|YP_001190149.1,"6,7-dimethyl-8-ribityllumazine synthase (gi|146302833)",0,1,1,1,2,1
+ref|YP_001190152.1,DNA polymerase sliding clamp subunit B (gi|146302836),9,7,6,7,6,6
+ref|YP_001190153.1,hypothetical protein Msed_0052 (gi|146302837),0,3,0,1,1,1
+ref|YP_001190156.1,50S ribosomal protein L14e (gi|146302840),3,4,3,11,5,4
+ref|YP_001190158.1,PUA domain-containing protein (gi|146302842),1,0,0,0,0,1
+ref|YP_001190161.1,hypothetical protein Msed_0060 (gi|146302845),1,0,0,1,0,0
+ref|YP_001190162.1,50S ribosomal protein L21e (gi|146302846),5,5,5,7,7,6
+ref|YP_001190163.1,DNA-directed RNA polymerase F (gi|146302847),2,1,1,2,2,1
+ref|YP_001190164.1,hypothetical protein Msed_0063 (gi|146302848),6,8,7,10,7,7
+ref|YP_001190167.1,tRNA/rRNA methyltransferase SpoU (gi|146302851),0,0,0,2,0,0
+ref|YP_001190168.1,30S ribosomal protein S3Ae (gi|146302852),27,27,32,28,22,18
+ref|YP_001190169.1,nucleotidyl transferase (gi|146302853),0,0,0,2,1,1
+ref|YP_001190170.1,translation-associated GTPase (gi|146302854),4,3,2,4,5,2
+ref|YP_001190171.1,50S ribosomal protein L15e (gi|146302855),11,15,13,15,8,11
+ref|YP_001190172.1,hypothetical protein Msed_0071 (gi|146302856),0,0,0,1,0,1
+ref|YP_001190175.1,proteasome subunit alpha (gi|146302859),34,31,30,20,20,22
+ref|YP_001190176.1,RNA-associated protein (gi|146302860),7,6,7,8,11,11
+ref|YP_001190177.1,exosome complex RNA-binding protein Rrp4 (gi|146302861),5,4,6,5,4,4
+ref|YP_001190178.1,exosome complex exonuclease Rrp41 (gi|146302862),16,15,18,16,15,12
+ref|YP_001190179.1,exosome complex RNA-binding protein Rrp42 (gi|146302863),18,16,12,10,8,11
+ref|YP_001190180.1,50S ribosomal protein L37Ae (gi|146302864),0,0,1,4,5,2
+ref|YP_001190183.1,prefoldin subunit beta (gi|146302867),23,27,19,15,21,16
+ref|YP_001190184.1,ERCC4 domain-containing protein (gi|146302868),0,0,0,2,0,0
+ref|YP_001190185.1,elongation factor EF-2 (gi|146302869),92,92,82,81,85,68
+ref|YP_001190186.1,HAD family hydrolase (gi|146302870),4,3,3,3,2,3
+ref|YP_001190189.1,3-isopropylmalate dehydrogenase (gi|146302873),16,16,17,21,19,14
+ref|YP_001190190.1,isoleucyl-tRNA synthetase (gi|146302874),11,19,17,29,24,23
+ref|YP_001190192.1,50S ribosomal protein L3P (gi|146302876),37,35,28,24,23,21
+ref|YP_001190193.1,50S ribosomal protein L4P (gi|146302877),40,37,39,44,40,32
+ref|YP_001190194.1,50S ribosomal protein L23 (gi|146302878),13,20,14,10,14,11
+ref|YP_001190195.1,50S ribosomal protein L2 (gi|146302879),12,11,11,18,17,16
+ref|YP_001190196.1,30S ribosomal protein S19 (gi|146302880),12,9,10,6,9,7
+ref|YP_001190197.1,50S ribosomal protein L22 (gi|146302881),15,14,12,9,8,7
+ref|YP_001190198.1,30S ribosomal protein S3 (gi|146302882),17,22,18,16,16,17
+ref|YP_001190199.1,50S ribosomal protein L29 (gi|146302883),3,7,7,7,5,3
+ref|YP_001190201.1,30S ribosomal protein S17 (gi|146302885),9,8,8,7,10,11
+ref|YP_001190202.1,50S ribosomal protein L14 (gi|146302886),7,9,8,8,10,6
+ref|YP_001190203.1,KOW domain-containing protein (gi|146302887),14,14,12,19,17,14
+ref|YP_001190204.1,30S ribosomal protein S4e (gi|146302888),37,44,40,31,37,29
+ref|YP_001190205.1,50S ribosomal protein L5 (gi|146302889),12,12,8,9,10,9
+ref|YP_001190206.1,30S ribosomal protein S14 (gi|146302890),1,2,1,3,3,3
+ref|YP_001190207.1,30S ribosomal protein S8 (gi|146302891),8,9,10,10,8,7
+ref|YP_001190208.1,50S ribosomal protein L6 (gi|146302892),8,8,9,14,13,13
+ref|YP_001190209.1,50S ribosomal protein L32e (gi|146302893),10,12,8,7,9,4
+ref|YP_001190210.1,50S ribosomal protein L19e (gi|146302894),12,9,9,8,10,8
+ref|YP_001190211.1,50S ribosomal protein L18 (gi|146302895),24,22,20,19,20,14
+ref|YP_001190212.1,30S ribosomal protein S5 (gi|146302896),17,20,14,13,14,13
+ref|YP_001190213.1,50S ribosomal protein L30 (gi|146302897),23,21,19,21,18,19
+ref|YP_001190214.1,50S ribosomal protein L15 (gi|146302898),3,3,2,5,1,5
+ref|YP_001190215.1,preprotein translocase subunit SecY (gi|146302899),0,1,1,2,1,1
+ref|YP_001190216.1,adenylate kinase (gi|146302900),19,20,20,18,17,20
+ref|YP_001190219.1,cytidylate kinase (gi|146302903),2,2,2,2,2,0
+ref|YP_001190222.1,hypothetical protein Msed_0121 (gi|146302906),1,1,1,1,1,1
+ref|YP_001190223.1,hypothetical protein Msed_0122 (gi|146302907),0,0,0,1,1,1
+ref|YP_001190229.1,hypothetical protein Msed_0128 (gi|146302913),6,5,6,4,4,5
+ref|YP_001190230.1,group 1 glycosyl transferase (gi|146302914),13,11,9,6,5,5
+ref|YP_001190245.1,phosphopantothenoylcysteine decarboxylase (gi|146302929),4,3,6,5,4,6
+ref|YP_001190246.1,30S ribosomal protein S18 alanine acetyltransferase (gi|146302930),2,0,1,1,0,0
+ref|YP_001190248.1,carbamoyl-phosphate synthase subunit L (gi|146302932),21,20,13,21,19,13
+ref|YP_001190249.1,biotin/lipoyl attachment domain-containing protein (gi|146302933),1,1,2,3,4,3
+ref|YP_001190251.1,ATP-dependent DNA ligase (gi|146302935),2,3,3,7,10,8
+ref|YP_001190252.1,deoxycytidine triphosphate deaminase (gi|146302936),1,3,3,4,4,4
+ref|YP_001190253.1,hypothetical protein Msed_0152 (gi|146302937),3,1,1,4,1,1
+ref|YP_001190254.1,glutaredoxin-like domain-containing protein (gi|146302938),10,7,8,3,3,7
+ref|YP_001190260.1,hypothetical protein Msed_0159 (gi|146302944),0,0,1,0,0,0
+ref|YP_001190264.1,hypothetical protein Msed_0163 (gi|146302948),0,1,0,0,1,1
+ref|YP_001190265.1,N-acetyl-gamma-glutamyl-phosphate reductase (gi|146302949),9,9,8,18,14,10
+ref|YP_001190266.1,acetylglutamate/acetylaminoadipate kinase (gi|146302950),5,6,3,7,5,3
+ref|YP_001190267.1,AsnC family transcriptional regulator (gi|146302951),1,0,0,1,0,0
+ref|YP_001190269.1,L-2-aminoadipate N-acetyltransferase (gi|146302953),0,0,0,1,0,0
+ref|YP_001190270.1,N2-acetyl-L-lysine aminotransferase / acetylornithine aminotransferase (gi|146302954),11,18,14,12,17,11
+ref|YP_001190271.1,acetyl-lysine deacetylase (gi|146302955),0,0,0,0,1,0
+ref|YP_001190272.1,undecaprenyl pyrophosphate synthetase (gi|146302956),0,0,0,0,0,1
+ref|YP_001190273.1,30S ribosomal protein S8e (gi|146302957),4,8,5,8,8,3
+ref|YP_001190274.1,signal recognition particle SRP19 (gi|146302958),0,0,0,0,1,0
+ref|YP_001190275.1,NAD-dependent epimerase/dehydratase (gi|146302959),2,3,4,9,6,2
+ref|YP_001190282.1,4Fe-4S ferredoxin (gi|146302966),4,4,6,2,1,1
+ref|YP_001190285.1,phosphomethylpyrimidine kinase (gi|146302969),1,2,2,6,3,2
+ref|YP_001190286.1,ribokinase (gi|146302970),3,3,4,3,3,3
+ref|YP_001190287.1,beta-lactamase domain-containing protein (gi|146302971),2,2,0,2,2,1
+ref|YP_001190288.1,glutamine amidotransferase-like protein (gi|146302972),1,1,2,1,2,1
+ref|YP_001190289.1,"transposase, IS605 OrfB (gi|146302973)",0,0,0,0,2,2
+ref|YP_001190290.1,peptidase M24 (gi|146302974),11,11,8,9,8,10
+ref|YP_001190291.1,GntR family transcriptional regulator (gi|146302975),5,5,4,5,4,5
+ref|YP_001190292.1,ornithine cyclodeaminase (gi|146302976),5,6,10,7,8,3
+ref|YP_001190295.1,"xanthine dehydrogenase, molybdenum binding subunit apoprotein (gi|146302979)",35,32,36,32,26,21
+ref|YP_001190297.1,alcohol dehydrogenase (gi|146302981),9,7,7,12,10,7
+ref|YP_001190300.1,adenosylcobyric acid synthase (gi|146302984),0,0,1,2,1,0
+ref|YP_001190301.1,GMP synthase (gi|146302985),0,1,0,3,1,1
+ref|YP_001190302.1,thiamine pyrophosphate protein (gi|146302986),39,48,40,29,29,30
+ref|YP_001190303.1,nucleotidyltransferase-like protein (gi|146302987),3,3,4,5,5,2
+ref|YP_001190305.1,transcription elongation factor NusA-like protein (gi|146302989),4,10,11,6,3,4
+ref|YP_001190306.1,aspartyl-tRNA synthetase (gi|146302990),27,27,28,20,18,17
+ref|YP_001190309.1,hypothetical protein Msed_0208 (gi|146302993),0,1,0,0,0,0
+ref|YP_001190310.1,elongation factor 1-beta (gi|146302994),4,1,0,2,4,5
+ref|YP_001190311.1,AAA ATPase (gi|146302995),32,39,34,31,21,31
+ref|YP_001190313.1,flap endonuclease-1 (gi|146302997),1,3,3,3,1,4
+ref|YP_001190314.1,siroheme synthase (gi|146302998),1,0,0,0,0,0
+ref|YP_001190316.1,delta-aminolevulinic acid dehydratase (gi|146303000),27,22,14,16,8,11
+ref|YP_001190317.1,glutamate-1-semialdehyde aminotransferase (gi|146303001),18,15,17,13,13,12
+ref|YP_001190318.1,porphobilinogen deaminase (gi|146303002),3,4,4,3,2,3
+ref|YP_001190321.1,type I phosphodiesterase/nucleotide pyrophosphatase (gi|146303005),0,1,1,2,1,2
+ref|YP_001190322.1,hypothetical protein Msed_0221 (gi|146303006),3,3,3,4,4,5
+ref|YP_001190323.1,FAD dependent oxidoreductase (gi|146303007),2,1,3,4,0,0
+ref|YP_001190324.1,phosphoglucomutase/phosphomannomutase alpha/beta/subunit (gi|146303008),23,23,20,27,26,22
+ref|YP_001190325.1,hypothetical protein Msed_0224 (gi|146303009),1,0,0,0,0,1
+ref|YP_001190326.1,hypothetical protein Msed_0225 (gi|146303010),8,9,9,7,3,6
+ref|YP_001190327.1,hypothetical protein Msed_0226 (gi|146303011),7,6,3,10,8,4
+ref|YP_001190328.1,orotidine 5'-phosphate decarboxylase (gi|146303012),11,13,13,10,8,9
+ref|YP_001190329.1,CTP synthetase (gi|146303013),11,9,13,11,8,8
+ref|YP_001190330.1,regulatory protein ArsR (gi|146303014),0,0,0,1,0,0
+ref|YP_001190331.1,Sm ribonucleoprotein-like protein (gi|146303015),8,6,6,5,6,3
+ref|YP_001190332.1,S-adenosylmethionine synthetase (gi|146303016),56,59,52,56,53,43
+ref|YP_001190333.1,hypothetical protein Msed_0232 (gi|146303017),0,0,0,1,1,0
+ref|YP_001190334.1,hypothetical protein Msed_0233 (gi|146303018),4,1,2,8,7,1
+ref|YP_001190335.1,hypothetical protein Msed_0234 (gi|146303019),1,2,1,2,1,1
+ref|YP_001190337.1,hexulose-6-phosphate isomerase (gi|146303021),6,6,6,7,5,7
+ref|YP_001190338.1,fructose-bisphosphate aldolase (gi|146303022),29,30,30,27,26,26
+ref|YP_001190340.1,signal transduction protein (gi|146303024),0,0,0,1,2,1
+ref|YP_001190341.1,nucleotidyl transferase (gi|146303025),11,9,6,4,5,3
+ref|YP_001190342.1,UDP-sulfoquinovose synthase (gi|146303026),32,38,33,24,26,27
+ref|YP_001190343.1,heat shock protein HtpX (gi|146303027),1,2,0,1,1,1
+ref|YP_001190344.1,gamma-glutamyltransferase (gi|146303028),31,29,27,22,28,25
+ref|YP_001190347.1,hypothetical protein Msed_0246 (gi|146303031),1,2,1,7,4,1
+ref|YP_001190348.1,hypothetical protein Msed_0247 (gi|146303032),1,0,1,1,1,1
+ref|YP_001190350.1,hypothetical protein Msed_0249 (gi|146303034),2,3,3,3,3,3
+ref|YP_001190351.1,amino acid permease-associated protein (gi|146303035),1,0,0,1,0,2
+ref|YP_001190354.1,UspA domain-containing protein (gi|146303038),3,2,3,5,5,4
+ref|YP_001190357.1,glyoxylate reductase (gi|146303041),6,6,4,10,5,4
+ref|YP_001190365.1,thioesterase superfamily protein (gi|146303049),0,2,0,1,1,0
+ref|YP_001190367.1,zinc finger CDGSH-type domain-containing protein (gi|146303051),1,1,1,1,0,0
+ref|YP_001190368.1,AMP-dependent synthetase and ligase (gi|146303052),8,6,6,7,8,4
+ref|YP_001190369.1,hypothetical protein Msed_0268 (gi|146303053),5,12,7,9,6,6
+ref|YP_001190370.1,hypothetical protein Msed_0269 (gi|146303054),6,2,4,6,5,4
+ref|YP_001190371.1,acetyl-CoA acetyltransferase (gi|146303055),16,21,11,16,11,8
+ref|YP_001190372.1,acetyl-CoA acetyltransferase (gi|146303056),24,23,24,19,19,15
+ref|YP_001190373.1,acyl-CoA dehydrogenase domain-containing protein (gi|146303057),3,4,3,4,4,3
+ref|YP_001190375.1,acyl-CoA dehydrogenase domain-containing protein (gi|146303059),11,17,16,6,7,8
+ref|YP_001190376.1,4-aminobutyrate aminotransferase (gi|146303060),26,34,28,23,19,24
+ref|YP_001190377.1,acyl-CoA dehydrogenase domain-containing protein (gi|146303061),39,46,41,36,31,31
+ref|YP_001190378.1,"xanthine dehydrogenase, molybdenum binding subunit apoprotein (gi|146303062)",28,25,23,24,15,17
+ref|YP_001190379.1,2-methylcitrate dehydratase (gi|146303063),27,28,28,17,12,22
+ref|YP_001190380.1,"2,3-dimethylmalate lyase (gi|146303064)",10,16,9,7,4,6
+ref|YP_001190381.1,signal-transduction protein (gi|146303065),12,12,11,13,9,10
+ref|YP_001190382.1,citrate synthase (gi|146303066),26,33,30,22,17,18
+ref|YP_001190384.1,hypothetical protein Msed_0283 (gi|146303068),1,1,1,1,1,1
+ref|YP_001190385.1,hypothetical protein Msed_0284 (gi|146303069),0,1,0,2,1,1
+ref|YP_001190387.1,hypothetical protein Msed_0286 (gi|146303071),1,0,2,0,0,0
+ref|YP_001190389.1,Rieske (2Fe-2S) domain-containing protein (gi|146303073),1,0,1,1,1,1
+ref|YP_001190391.1,cytochrome-c oxidase (gi|146303075),6,1,4,2,1,2
+ref|YP_001190392.1,cytochrome b/b6 domain-containing protein (gi|146303076),5,5,7,2,1,5
+ref|YP_001190395.1,hypothetical protein Msed_0294 (gi|146303079),2,2,2,1,0,1
+ref|YP_001190396.1,hypothetical protein Msed_0295 (gi|146303080),13,17,14,11,13,13
+ref|YP_001190397.1,rubrerythrin (gi|146303081),46,57,48,26,24,33
+ref|YP_001190398.1,carbon-monoxide dehydrogenase (gi|146303082),76,72,65,54,52,46
+ref|YP_001190399.1,glyceraldehyde oxidoreductase small chain (gi|146303083),13,17,15,12,14,14
+ref|YP_001190400.1,glyceraldehyde oxidoreductase medium chain (gi|146303084),27,28,25,19,15,16
+ref|YP_001190401.1,peptidase M1 (gi|146303085),37,39,47,34,30,27
+ref|YP_001190406.1,4Fe-4S ferredoxin (gi|146303090),0,1,0,2,0,1
+ref|YP_001190407.1,pyruvate ferredoxin oxidoreductase subunit gamma (gi|146303091),4,4,3,4,3,4
+ref|YP_001190408.1,pyruvate ferredoxin/flavodoxin oxidoreductase subunit delta (gi|146303092),0,1,0,0,0,0
+ref|YP_001190409.1,pyruvate flavodoxin/ferredoxin oxidoreductase domain-containing protein (gi|146303093),8,8,8,14,15,8
+ref|YP_001190410.1,pyruvate ferredoxin oxidoreductase subunit beta (gi|146303094),6,6,5,4,4,4
+ref|YP_001190414.1,peptidase S8/S53 subtilisin kexin sedolisin (gi|146303098),1,0,0,0,0,0
+ref|YP_001190422.1,cytochrome b/b6 domain-containing protein (gi|146303106),1,1,1,1,0,3
+ref|YP_001190423.1,Rieske (2Fe-2S) domain-containing protein (gi|146303107),2,1,0,0,0,0
+ref|YP_001190432.1,electron transfer flavoprotein subunit beta (gi|146303116),16,17,17,9,10,13
+ref|YP_001190433.1,electron transfer flavoprotein subunit alpha (gi|146303117),26,20,22,16,17,20
+ref|YP_001190434.1,FAD dependent oxidoreductase (gi|146303118),24,23,19,16,11,18
+ref|YP_001190435.1,4Fe-4S ferredoxin (gi|146303119),2,0,1,2,1,1
+ref|YP_001190436.1,"von Willebrand factor, type A (gi|146303120)",1,2,1,3,1,2
+ref|YP_001190437.1,enoyl-CoA hydratase/isomerase (gi|146303121),3,5,4,3,2,2
+ref|YP_001190441.1,dipeptidyl aminopeptidase/acylaminoacyl-peptidase-like protein (gi|146303125),1,1,0,0,1,0
+ref|YP_001190444.1,hypothetical protein Msed_0343 (gi|146303128),2,1,1,2,1,0
+ref|YP_001190445.1,carboxypeptidase Taq (gi|146303129),16,20,19,17,13,20
+ref|YP_001190446.1,3-ketoacyl-ACP reductase (gi|146303130),7,8,6,6,6,8
+ref|YP_001190448.1,hypothetical protein Msed_0347 (gi|146303132),23,25,27,15,13,20
+ref|YP_001190451.1,ABC transporter-like protein (gi|146303135),2,1,1,1,0,0
+ref|YP_001190452.1,hypothetical protein Msed_0351 (gi|146303136),13,13,16,19,13,11
+ref|YP_001190453.1,hypothetical protein Msed_0352 (gi|146303137),4,5,4,3,1,2
+ref|YP_001190454.1,FAD-dependent pyridine nucleotide-disulfide oxidoreductase (gi|146303138),40,50,34,33,34,23
+ref|YP_001190457.1,rhodanese domain-containing protein (gi|146303141),5,11,9,12,7,6
+ref|YP_001190460.1,alkyl hydroperoxide reductase (gi|146303144),27,18,21,13,15,15
+ref|YP_001190467.1,hypothetical protein Msed_0366 (gi|146303151),1,1,1,2,3,1
+ref|YP_001190468.1,delta-1-pyrroline-5-carboxylate dehydrogenase (gi|146303152),18,19,18,13,13,12
+ref|YP_001190471.1,peroxiredoxins-like protein (gi|146303155),1,2,1,0,0,0
+ref|YP_001190478.1,hypothetical protein Msed_0377 (gi|146303162),0,0,0,1,1,1
+ref|YP_001190479.1,hypothetical protein Msed_0378 (gi|146303163),0,0,0,2,1,2
+ref|YP_001190481.1,hypothetical protein Msed_0380 (gi|146303165),0,1,0,0,0,1
+ref|YP_001190482.1,citryl-CoA lyase (gi|146303166),5,4,6,4,6,7
+ref|YP_001190483.1,hypothetical protein Msed_0382 (gi|146303167),1,1,1,0,0,1
+ref|YP_001190484.1,hypothetical protein Msed_0383 (gi|146303168),0,1,1,6,3,0
+ref|YP_001190485.1,short chain enoyl-CoA hydratase (gi|146303169),18,12,15,9,9,9
+ref|YP_001190486.1,enoyl-CoA hydratase (gi|146303170),11,7,8,7,5,6
+ref|YP_001190487.1,acetyl-CoA acetyltransferase (gi|146303171),10,8,8,5,6,7
+ref|YP_001190488.1,hypothetical protein Msed_0387 (gi|146303172),6,3,3,4,4,2
+ref|YP_001190489.1,phenylacetate-CoA ligase (gi|146303173),6,6,5,3,5,3
+ref|YP_001190490.1,3-hydroxyacyl-CoA dehydrogenase (gi|146303174),3,4,5,4,4,3
+ref|YP_001190491.1,carbonic anhydrase (gi|146303175),3,2,2,2,1,3
+ref|YP_001190492.1,amino acid transporter-like protein (gi|146303176),1,0,0,0,0,0
+ref|YP_001190495.1,AMP-dependent synthetase and ligase (gi|146303179),4,4,4,4,5,1
+ref|YP_001190496.1,peptidase S9 prolyl oligopeptidase (gi|146303180),13,19,14,15,11,19
+ref|YP_001190497.1,acetyl-CoA acetyltransferase (gi|146303181),34,37,27,27,24,24
+ref|YP_001190498.1,hypothetical protein Msed_0397 (gi|146303182),17,18,15,10,10,11
+ref|YP_001190499.1,alcohol dehydrogenase (gi|146303183),12,14,9,13,10,7
+ref|YP_001190500.1,3-hydroxyacyl-CoA dehydrogenase (gi|146303184),43,45,47,42,41,33
+ref|YP_001190501.1,acyl-CoA dehydrogenase domain-containing protein (gi|146303185),43,48,36,39,37,33
+ref|YP_001190502.1,AMP-dependent synthetase and ligase (gi|146303186),35,31,33,31,36,26
+ref|YP_001190503.1,peptidase U62 (gi|146303187),32,30,29,19,18,22
+ref|YP_001190504.1,peptidase U62 (gi|146303188),27,28,23,17,14,16
+ref|YP_001190505.1,hypothetical protein Msed_0404 (gi|146303189),0,1,0,1,1,1
+ref|YP_001190507.1,AMP-dependent synthetase and ligase (gi|146303191),8,11,12,15,13,12
+ref|YP_001190508.1,major facilitator transporter (gi|146303192),1,0,1,2,2,1
+ref|YP_001190516.1,NADH:flavin oxidoreductase (gi|146303200),28,29,31,19,20,21
+ref|YP_001190523.1,hypothetical protein Msed_0422 (gi|146303207),0,0,0,2,0,0
+ref|YP_001190525.1,hypothetical protein Msed_0424 (gi|146303209),7,6,7,3,3,4
+ref|YP_001190528.1,hypothetical protein Msed_0427 (gi|146303212),0,0,0,1,1,1
+ref|YP_001190529.1,NADPH-dependent FMN reductase (gi|146303213),4,6,4,6,4,3
+ref|YP_001190530.1,hypothetical protein Msed_0429 (gi|146303214),16,17,17,16,14,22
+ref|YP_001190531.1,isochorismatase hydrolase (gi|146303215),10,9,6,9,4,5
+ref|YP_001190532.1,"pyruvate, water dikinase (gi|146303216)",3,2,3,5,4,4
+ref|YP_001190533.1,acetolactate synthase catalytic subunit (gi|146303217),23,21,18,13,10,13
+ref|YP_001190535.1,NAD-dependent epimerase/dehydratase (gi|146303219),4,1,1,4,5,3
+ref|YP_001190537.1,D-lactate dehydrogenase (gi|146303221),5,9,5,5,5,4
+ref|YP_001190539.1,alcohol dehydrogenase (gi|146303223),4,4,3,4,3,3
+ref|YP_001190541.1,peptidase S9 prolyl oligopeptidase (gi|146303225),12,13,7,14,16,14
+ref|YP_001190542.1,peptide ABC transporter substrate-binding protein (gi|146303226),5,5,3,9,8,7
+ref|YP_001190544.1,peptide ABC transporter permease (gi|146303228),1,0,0,1,1,0
+ref|YP_001190545.1,peptide ABC transporter permease (gi|146303229),1,1,1,0,0,0
+ref|YP_001190546.1,peptide ABC transporter ATPase (gi|146303230),4,3,4,8,4,6
+ref|YP_001190547.1,peptide ABC transporter ATPase (gi|146303231),5,5,5,8,9,4
+ref|YP_001190550.1,extradiol ring-cleavage dioxygenase III subunit B (gi|146303234),2,1,2,1,2,1
+ref|YP_001190551.1,hypothetical protein Msed_0450 (gi|146303235),17,10,12,9,7,8
+ref|YP_001190553.1,aldo/keto reductase (gi|146303237),10,10,6,5,4,7
+ref|YP_001190554.1,hypothetical protein Msed_0453 (gi|146303238),0,1,0,5,4,0
+ref|YP_001190556.1,lactate/malate dehydrogenase (gi|146303240),26,34,25,17,16,17
+ref|YP_001190557.1,hypothetical protein Msed_0456 (gi|146303241),0,1,1,1,0,1
+ref|YP_001190559.1,hypothetical protein Msed_0458 (gi|146303243),0,0,0,0,0,1
+ref|YP_001190563.1,major facilitator transporter (gi|146303247),0,0,0,3,3,2
+ref|YP_001190564.1,major facilitator transporter (gi|146303248),0,0,0,4,5,2
+ref|YP_001190565.1,alcohol dehydrogenase (gi|146303249),0,0,0,1,1,0
+ref|YP_001190566.1,formamidase (gi|146303250),10,10,8,9,6,9
+ref|YP_001190567.1,CopG family transcriptional regulator (gi|146303251),0,0,0,2,0,0
+ref|YP_001190571.1,vesicle-fusing ATPase (gi|146303255),8,8,6,10,6,5
+ref|YP_001190579.1,hypothetical protein Msed_0478 (gi|146303263),1,0,0,0,0,0
+ref|YP_001190586.1,cytochrome c oxidase I (gi|146303270),7,7,7,7,7,7
+ref|YP_001190587.1,signal transduction protein (gi|146303271),5,5,3,6,6,3
+ref|YP_001190588.1,FAD-dependent pyridine nucleotide-disulfide oxidoreductase (gi|146303272),14,11,11,13,9,11
+ref|YP_001190591.1,ATPase P (gi|146303275),3,1,2,2,3,3
+ref|YP_001190592.1,YHS domain-containing protein (gi|146303276),1,1,1,1,0,1
+ref|YP_001190594.1,amidohydrolase (gi|146303278),11,6,8,8,6,6
+ref|YP_001190597.1,agmatinase (gi|146303281),17,14,17,12,7,17
+ref|YP_001190598.1,5-formyltetrahydrofolate cyclo-ligase (gi|146303282),6,3,3,3,4,4
+ref|YP_001190599.1,antibiotic biosynthesis monooxygenase (gi|146303283),3,3,2,2,2,1
+ref|YP_001190600.1,cytochrome b/b6 domain-containing protein (gi|146303284),0,1,1,1,1,1
+ref|YP_001190601.1,Rieske (2Fe-2S) domain-containing protein (gi|146303285),0,1,0,0,0,0
+ref|YP_001190606.1,pyruvate/ketoisovalerate oxidoreductase subunit gamma (gi|146303290),1,1,1,0,0,0
+ref|YP_001190620.1,ABC transporter-like protein (gi|146303304),4,2,2,0,0,1
+ref|YP_001190621.1,hypothetical protein Msed_0522 (gi|146303305),2,3,3,2,1,2
+ref|YP_001190622.1,hypothetical protein Msed_0523 (gi|146303306),0,0,0,2,1,0
+ref|YP_001190623.1,2-oxoglutarate ferredoxin oxidoreductase subunit beta (gi|146303307),35,33,29,28,25,26
+ref|YP_001190624.1,pyruvate flavodoxin/ferredoxin oxidoreductase domain-containing protein (gi|146303308),85,87,88,64,60,60
+ref|YP_001190625.1,PaREP1 family protein (gi|146303309),3,3,4,2,1,2
+ref|YP_001190626.1,molybdopterin binding aldehyde oxidase and xanthine dehydrogenase (gi|146303310),44,48,51,37,34,34
+ref|YP_001190627.1,hypothetical protein Msed_0528 (gi|146303311),4,5,3,3,3,3
+ref|YP_001190630.1,nitrilase/cyanide hydratase and apolipoprotein N-acyltransferase (gi|146303314),1,1,1,1,0,1
+ref|YP_001190631.1,signal-transduction protein (gi|146303315),42,44,46,25,27,23
+ref|YP_001190632.1,histone deacetylase superfamily protein (gi|146303316),6,5,5,5,4,5
+ref|YP_001190633.1,phosphoribosylglycinamide formyltransferase 2 (gi|146303317),11,17,13,15,10,14
+ref|YP_001190639.1,FAD dependent oxidoreductase (gi|146303323),0,0,0,1,0,0
+ref|YP_001190641.1,hypothetical protein Msed_0542 (gi|146303325),0,1,1,1,1,1
+ref|YP_001190642.1,molybdenum cofactor synthesis domain-containing protein (gi|146303326),7,6,6,2,5,3
+ref|YP_001190643.1,4Fe-4S ferredoxin (gi|146303327),4,3,3,5,4,3
+ref|YP_001190646.1,exsB protein (gi|146303330),6,5,7,6,4,6
+ref|YP_001190650.1,SpoVT/AbrB domain-containing protein (gi|146303334),0,0,0,1,2,1
+ref|YP_001190651.1,FAD linked oxidase domain-containing protein (gi|146303335),0,2,2,0,0,1
+ref|YP_001190652.1,FAD linked oxidase domain-containing protein (gi|146303336),2,4,3,2,1,0
+ref|YP_001190653.1,hypothetical protein Msed_0554 (gi|146303337),1,2,2,1,1,1
+ref|YP_001190657.1,FAD-dependent pyridine nucleotide-disulfide oxidoreductase (gi|146303341),1,1,1,1,0,1
+ref|YP_001190660.1,hypothetical protein Msed_0561 (gi|146303344),0,1,0,7,6,2
+ref|YP_001190661.1,hypothetical protein Msed_0562 (gi|146303345),1,1,1,2,2,1
+ref|YP_001190663.1,hypothetical protein Msed_0564 (gi|146303347),3,1,3,1,2,1
+ref|YP_001190664.1,PadR family transcriptional regulator (gi|146303348),1,0,0,0,0,1
+ref|YP_001190665.1,methylglutaconyl-CoA hydratase (gi|146303349),8,12,7,9,8,8
+ref|YP_001190672.1,leucyl-tRNA synthetase (gi|146303356),17,28,21,25,17,19
+ref|YP_001190673.1,hypothetical protein Msed_0574 (gi|146303357),0,0,0,1,1,0
+ref|YP_001190674.1,peptidase M1 (gi|146303358),66,74,65,60,61,57
+ref|YP_001190677.1,hypothetical protein Msed_0578 (gi|146303361),10,10,9,5,2,7
+ref|YP_001190678.1,hypothetical protein Msed_0579 (gi|146303362),34,35,46,41,35,33
+ref|YP_001190683.1,hypothetical protein Msed_0584 (gi|146303367),2,2,3,0,0,0
+ref|YP_001190691.1,S-layer-like domain-containing protein (gi|146303375),0,0,0,1,0,1
+ref|YP_001190692.1,mechanosensitive ion channel MscS (gi|146303376),1,2,1,1,1,1
+ref|YP_001190695.1,TBP-interacting protein TIP49 (gi|146303379),0,2,0,1,2,2
+ref|YP_001190696.1,ribokinase-like domain-containing protein (gi|146303380),2,2,1,3,5,1
+ref|YP_001190698.1,hypothetical protein Msed_0599 (gi|146303382),0,1,1,0,0,0
+ref|YP_001190701.1,L-glutamine synthetase (gi|146303385),10,15,12,16,18,11
+ref|YP_001190703.1,amidohydrolase (gi|146303387),2,2,0,5,4,3
+ref|YP_001190704.1,hypothetical protein Msed_0605 (gi|146303388),1,2,2,1,1,2
+ref|YP_001190707.1,uroporphyrinogen-III C-methyltransferase (gi|146303391),1,0,0,0,0,0
+ref|YP_001190708.1,molybdopterin dehydrogenase (gi|146303392),45,47,44,28,35,29
+ref|YP_001190709.1,2Fe-2S iron-sulfur cluster binding domain-containing protein (gi|146303393),11,7,9,7,8,4
+ref|YP_001190711.1,4Fe-4S ferredoxin (gi|146303395),1,6,2,2,3,1
+ref|YP_001190712.1,pantothenate kinase (gi|146303396),1,0,0,2,1,0
+ref|YP_001190713.1,hypothetical protein Msed_0614 (gi|146303397),0,0,0,0,1,1
+ref|YP_001190714.1,3-methyl-2-oxobutanoate hydroxymethyltransferase (gi|146303398),6,3,3,5,6,6
+ref|YP_001190716.1,ABC transporter-like protein (gi|146303400),1,1,2,0,0,0
+ref|YP_001190718.1,AsnC family transcriptional regulator (gi|146303402),2,2,1,4,3,2
+ref|YP_001190720.1,CopG/DNA-binding domain-containing protein (gi|146303404),0,0,0,0,1,0
+ref|YP_001190721.1,Zn-dependent hydrolase (gi|146303405),2,1,2,1,1,0
+ref|YP_001190722.1,trans-homoaconitate synthase (gi|146303406),0,0,0,5,6,0
+ref|YP_001190725.1,hypothetical protein Msed_0626 (gi|146303409),4,4,3,6,5,7
+ref|YP_001190726.1,hypothetical protein Msed_0627 (gi|146303410),2,2,3,2,3,3
+ref|YP_001190727.1,hypothetical protein Msed_0628 (gi|146303411),4,2,3,5,2,6
+ref|YP_001190728.1,6-pyruvoyl-tetrahydropterin synthase (gi|146303412),2,4,3,4,3,3
+ref|YP_001190730.1,dihydropteroate synthase (gi|146303414),3,6,3,7,3,2
+ref|YP_001190731.1,thioredoxin reductase (gi|146303415),23,21,14,10,9,10
+ref|YP_001190732.1,"D-fructose 1,6-bisphosphatase (gi|146303416)",3,2,2,2,2,2
+ref|YP_001190733.1,ATPase central domain-containing protein (gi|146303417),1,0,1,3,3,0
+ref|YP_001190734.1,FAD dependent oxidoreductase (gi|146303418),3,4,2,6,3,5
+ref|YP_001190735.1,type I phosphodiesterase/nucleotide pyrophosphatase (gi|146303419),0,2,1,4,1,1
+ref|YP_001190736.1,phosphoribosyltransferase (gi|146303420),2,2,3,6,3,4
+ref|YP_001190738.1,methylmalonyl-CoA epimerase (gi|146303422),5,3,1,3,1,1
+ref|YP_001190739.1,heat shock protein Hsp20 (gi|146303423),22,17,17,7,6,9
+ref|YP_001190742.1,carbon monoxide dehydrogenase subunit G (gi|146303426),3,0,0,1,1,1
+ref|YP_001190743.1,carbon monoxide dehydrogenase subunit G (gi|146303427),7,8,7,6,5,4
+ref|YP_001190744.1,MoaD family protein (gi|146303428),2,1,1,1,0,1
+ref|YP_001190745.1,phosphomethylpyrimidine kinase (gi|146303429),0,0,0,2,0,2
+ref|YP_001190746.1,metal dependent phosphohydrolase (gi|146303430),0,0,0,1,0,0
+ref|YP_001190747.1,inorganic pyrophosphatase (gi|146303431),18,14,15,13,17,15
+ref|YP_001190749.1,type II secretion system protein E (gi|146303433),4,5,4,16,14,13
+ref|YP_001190750.1,type II secretion system protein (gi|146303434),0,1,0,5,3,5
+ref|YP_001190752.1,RNA-processing protein (gi|146303436),0,1,1,0,0,2
+ref|YP_001190753.1,non-specific serine/threonine protein kinase (gi|146303437),0,0,0,0,0,1
+ref|YP_001190754.1,translation initiation factor IF-1 (gi|146303438),0,1,0,1,1,0
+ref|YP_001190755.1,acetyl-CoA acetyltransferase (gi|146303439),0,0,0,2,3,1
+ref|YP_001190757.1,translation initiation factor IF-2 (gi|146303441),2,2,2,2,3,2
+ref|YP_001190759.1,hypothetical protein Msed_0660 (gi|146303443),1,1,1,0,0,1
+ref|YP_001190762.1,hypothetical protein Msed_0663 (gi|146303446),17,20,16,13,15,17
+ref|YP_001190763.1,hypothetical protein Msed_0664 (gi|146303447),1,0,1,2,0,0
+ref|YP_001190766.1,"von Willebrand factor, type A (gi|146303450)",8,11,7,8,12,7
+ref|YP_001190767.1,ATPase (gi|146303451),18,20,17,22,17,18
+ref|YP_001190768.1,single-stranded DNA-binding protein (gi|146303452),10,8,10,6,7,8
+ref|YP_001190769.1,hypothetical protein Msed_0670 (gi|146303453),7,2,4,2,3,4
+ref|YP_001190770.1,molybdopterin biosynthesis protein MoeA (gi|146303454),10,8,11,6,4,5
+ref|YP_001190771.1,homoserine kinase (gi|146303455),9,7,7,6,5,7
+ref|YP_001190772.1,hypothetical protein Msed_0673 (gi|146303456),9,10,11,4,3,6
+ref|YP_001190773.1,succinate dehydrogenase subunit D (gi|146303457),3,3,3,3,5,4
+ref|YP_001190774.1,succinate dehydrogenase subunit C (gi|146303458),11,11,13,7,7,6
+ref|YP_001190775.1,succinate dehydrogenase iron-sulfur subunit (gi|146303459),32,30,28,17,17,21
+ref|YP_001190776.1,succinate dehydrogenase flavoprotein subunit (gi|146303460),46,48,47,30,30,32
+ref|YP_001190777.1,HAD family hydrolase (gi|146303461),1,1,1,3,3,2
+ref|YP_001190780.1,geranylgeranyl reductase (gi|146303464),16,23,18,12,7,15
+ref|YP_001190781.1,hypothetical protein Msed_0682 (gi|146303465),0,1,1,0,0,0
+ref|YP_001190783.1,hypothetical protein Msed_0684 (gi|146303467),3,1,1,2,3,1
+ref|YP_001190784.1,asparaginase (gi|146303468),3,2,3,2,2,2
+ref|YP_001190786.1,FAD dependent oxidoreductase (gi|146303470),2,2,3,4,3,3
+ref|YP_001190787.1,AsnC family transcriptional regulator (gi|146303471),0,2,2,1,0,1
+ref|YP_001190788.1,5'-methylthioadenosine phosphorylase (gi|146303472),6,6,3,7,5,3
+ref|YP_001190789.1,hypothetical protein Msed_0690 (gi|146303473),0,1,1,0,1,0
+ref|YP_001190794.1,hypothetical protein Msed_0695 (gi|146303478),7,8,8,9,9,6
+ref|YP_001190797.1,hypothetical protein Msed_0698 (gi|146303481),0,0,0,1,0,0
+ref|YP_001190798.1,hypothetical protein Msed_0699 (gi|146303482),1,2,0,3,5,2
+ref|YP_001190799.1,pterin-4-alpha-carbinolamine dehydratase (gi|146303483),7,4,6,4,4,4
+ref|YP_001190800.1,AAA ATPase (gi|146303484),0,0,0,1,1,0
+ref|YP_001190802.1,isocitrate dehydrogenase (gi|146303486),50,52,46,37,31,40
+ref|YP_001190806.1,hypothetical protein Msed_0707 (gi|146303490),15,19,19,16,14,14
+ref|YP_001190807.1,hypothetical protein Msed_0708 (gi|146303491),1,1,1,2,1,1
+ref|YP_001190808.1,aspartate-semialdehyde dehydrogenase (gi|146303492),0,0,1,2,4,0
+ref|YP_001190810.1,dihydroxy-acid dehydratase (gi|146303494),44,51,36,38,36,31
+ref|YP_001190811.1,methionine sulfoxide reductase A (gi|146303495),1,1,1,2,1,1
+ref|YP_001190815.1,NAD synthetase (gi|146303499),4,5,3,7,2,6
+ref|YP_001190818.1,type 11 methyltransferase (gi|146303502),4,3,4,5,3,3
+ref|YP_001190822.1,chlorite dismutase (gi|146303506),4,3,5,5,5,5
+ref|YP_001190823.1,NUDIX hydrolase (gi|146303507),2,0,0,1,0,0
+ref|YP_001190825.1,histidine triad (HIT) protein (gi|146303509),2,1,2,3,2,3
+ref|YP_001190826.1,FAD linked oxidase domain-containing protein (gi|146303510),23,32,25,34,23,26
+ref|YP_001190827.1,peptidase M61 (gi|146303511),6,5,5,8,8,5
+ref|YP_001190828.1,endonuclease IV (gi|146303512),5,7,4,8,7,7
+ref|YP_001190831.1,HAD family hydrolase (gi|146303515),0,1,2,4,1,1
+ref|YP_001190834.1,hypothetical protein Msed_0735 (gi|146303518),1,1,0,3,2,0
+ref|YP_001190836.1,class V aminotransferase (gi|146303520),9,10,10,10,8,10
+ref|YP_001190837.1,hypothetical protein Msed_0738 (gi|146303521),0,0,0,1,1,0
+ref|YP_001190838.1,nucleic acid binding protein (gi|146303522),0,0,0,0,0,1
+ref|YP_001190839.1,NAD(+) kinase (gi|146303523),2,1,2,1,1,2
+ref|YP_001190842.1,FAD-dependent pyridine nucleotide-disulfide oxidoreductase (gi|146303526),13,12,5,8,2,9
+ref|YP_001190847.1,hypothetical protein Msed_0748 (gi|146303531),0,2,4,4,3,2
+ref|YP_001190848.1,peptide chain release factor 1 (gi|146303532),2,1,0,8,5,4
+ref|YP_001190849.1,phosphoribosyltransferase (gi|146303533),11,16,13,10,9,9
+ref|YP_001190854.1,amidase (gi|146303538),1,1,1,0,0,0
+ref|YP_001190855.1,phosphoenolpyruvate carboxylase (gi|146303539),4,6,3,5,8,2
+ref|YP_001190856.1,alkyl hydroperoxide reductase (gi|146303540),6,4,5,9,5,9
+ref|YP_001190857.1,carbohydrate kinase (gi|146303541),9,12,9,12,6,7
+ref|YP_001190858.1,hypothetical protein Msed_0759 (gi|146303542),4,3,5,0,0,2
+ref|YP_001190859.1,hypothetical protein Msed_0760 (gi|146303543),11,9,9,9,8,14
+ref|YP_001190860.1,metallophosphoesterase (gi|146303544),4,6,3,7,5,8
+ref|YP_001190861.1,SMC domain-containing protein (gi|146303545),3,3,2,5,6,5
+ref|YP_001190862.1,hypothetical protein Msed_0763 (gi|146303546),1,1,2,1,2,2
+ref|YP_001190865.1,signal transduction protein (gi|146303549),4,3,3,4,4,2
+ref|YP_001190867.1,inosine/uridine-preferring nucleoside hydrolase (gi|146303551),3,2,2,3,2,1
+ref|YP_001190868.1,SMC domain-containing protein (gi|146303552),10,14,8,9,11,15
+ref|YP_001190869.1,hypothetical protein Msed_0770 (gi|146303553),0,1,1,2,1,1
+ref|YP_001190870.1,signal-transduction protein (gi|146303554),0,0,0,5,3,1
+ref|YP_001190871.1,metallophosphoesterase (gi|146303555),0,1,0,0,1,0
+ref|YP_001190872.1,phosphoglycerate mutase (gi|146303556),1,1,1,1,2,1
+ref|YP_001190875.1,thioredoxin (gi|146303559),1,0,1,2,2,2
+ref|YP_001190876.1,hypothetical protein Msed_0777 (gi|146303560),4,2,2,4,2,1
+ref|YP_001190878.1,ABC transporter substrate-binding protein (gi|146303562),13,8,7,4,7,8
+ref|YP_001190880.1,selenophosphate synthase-like protein (gi|146303564),15,19,19,11,8,11
+ref|YP_001190881.1,"xanthine dehydrogenase, molybdenum binding subunit apoprotein (gi|146303565)",18,28,19,25,19,21
+ref|YP_001190884.1,hypothetical protein Msed_0785 (gi|146303568),1,2,0,2,1,1
+ref|YP_001190886.1,hypothetical protein Msed_0787 (gi|146303570),9,8,9,12,13,12
+ref|YP_001190887.1,3-ketoacyl-ACP reductase (gi|146303571),14,16,16,16,13,12
+ref|YP_001190888.1,hypothetical protein Msed_0789 (gi|146303572),1,2,3,1,0,1
+ref|YP_001190891.1,hypothetical protein Msed_0792 (gi|146303575),0,0,0,1,2,1
+ref|YP_001190892.1,Sec-independent protein translocase TatA (gi|146303576),6,5,8,5,2,4
+ref|YP_001190895.1,hypothetical protein Msed_0796 (gi|146303579),0,0,0,1,0,0
+ref|YP_001190896.1,AsnC family transcriptional regulator (gi|146303580),0,0,1,6,3,1
+ref|YP_001190906.1,ABC transporter substrate-binding protein (gi|146303590),1,2,1,2,3,1
+ref|YP_001190917.1,hypothetical protein Msed_0818 (gi|146303601),0,0,1,0,0,1
+ref|YP_001190918.1,hypothetical protein Msed_0819 (gi|146303602),2,2,1,2,0,1
+ref|YP_001190919.1,mechanosensitive ion channel MscS (gi|146303603),1,2,1,1,0,0
+ref|YP_001190920.1,hypothetical protein Msed_0821 (gi|146303604),2,2,1,2,4,2
+ref|YP_001190921.1,hypothetical protein Msed_0822 (gi|146303605),10,13,6,7,9,7
+ref|YP_001190927.1,class V aminotransferase (gi|146303611),29,31,25,20,15,13
+ref|YP_001190928.1,3-isopropylmalate dehydratase small subunit (gi|146303612),3,4,4,6,5,3
+ref|YP_001190929.1,3-isopropylmalate dehydratase large subunit (gi|146303613),15,15,12,15,11,9
+ref|YP_001190936.1,signal transduction protein (gi|146303620),21,20,23,13,14,11
+ref|YP_001190938.1,hypothetical protein Msed_0840 (gi|146303622),0,1,1,1,1,2
+ref|YP_001190939.1,beta-lactamase domain-containing protein (gi|146303623),13,13,7,15,10,10
+ref|YP_001190949.1,peptidase S8/S53 subtilisin kexin sedolisin (gi|146303633),6,7,7,5,5,6
+ref|YP_001190951.1,Rossmann fold nucleotide-binding protein-like protein (gi|146303635),0,0,0,1,0,0
+ref|YP_001190986.1,beta-lactamase domain-containing protein (gi|146303670),1,1,1,2,2,1
+ref|YP_001190989.1,hypothetical protein Msed_0893 (gi|146303673),4,6,4,5,3,2
+ref|YP_001190991.1,cupin (gi|146303675),2,1,1,4,2,3
+ref|YP_001190998.1,hypothetical protein Msed_0902 (gi|146303682),0,0,1,1,1,1
+ref|YP_001191001.1,alcohol dehydrogenase (gi|146303685),37,38,38,19,15,20
+ref|YP_001191007.1,Alpha-glucosidase (gi|146303691),0,0,0,0,0,1
+ref|YP_001191009.1,"hydrogenase expression/synthesis, HypA (gi|146303693)",1,1,0,1,0,2
+ref|YP_001191010.1,chromosome partitioning ATPase (gi|146303694),0,1,0,1,0,1
+ref|YP_001191011.1,(NiFe) hydrogenase maturation protein HypF (gi|146303695),1,1,1,3,2,0
+ref|YP_001191021.1,hypothetical protein Msed_0925 (gi|146303705),0,0,0,2,0,0
+ref|YP_001191026.1,hydrogenase formation HypD protein (gi|146303710),0,3,0,4,4,4
+ref|YP_001191029.1,hydrogenase expression/formation protein HypE (gi|146303713),4,3,5,6,6,3
+ref|YP_001191033.1,hypothetical protein Msed_0937 (gi|146303717),3,7,2,5,4,7
+ref|YP_001191035.1,hypothetical protein Msed_0939 (gi|146303719),0,0,0,0,1,0
+ref|YP_001191039.1,hypothetical protein Msed_0943 (gi|146303723),1,2,1,5,5,2
+ref|YP_001191041.1,Ni Fe-hydrogenase I large subunit-like protein (gi|146303725),0,1,0,0,1,1
+ref|YP_001191050.1,AIR synthase-like protein (gi|146303734),8,6,8,9,8,7
+ref|YP_001191051.1,chromosome partitioning ATPase (gi|146303735),1,0,1,1,1,2
+ref|YP_001191056.1,sulfite reductase subunit beta (gi|146303740),0,0,0,0,0,1
+ref|YP_001191057.1,phosphoadenosine phosphosulfate reductase (gi|146303741),1,4,2,1,0,8
+ref|YP_001191058.1,sulfate adenylyltransferase (gi|146303742),0,1,0,0,0,0
+ref|YP_001191061.1,selenium-binding protein (gi|146303745),0,0,0,1,0,0
+ref|YP_001191069.1,hypothetical protein Msed_0976 (gi|146303753),3,2,2,2,1,2
+ref|YP_001191070.1,pyrroline-5-carboxylate reductase (gi|146303754),0,1,1,0,0,0
+ref|YP_001191071.1,hypothetical protein Msed_0978 (gi|146303755),0,0,0,1,0,1
+ref|YP_001191072.1,thymidylate kinase-like protein (gi|146303756),3,5,5,3,2,5
+ref|YP_001191073.1,thymidylate kinase / thymidylate synthase (gi|146303757),2,0,1,4,3,2
+ref|YP_001191074.1,Ppx/GppA phosphatase (gi|146303758),3,3,3,2,0,2
+ref|YP_001191075.1,phosphohistidine phosphatase SixA (gi|146303759),2,2,4,2,2,4
+ref|YP_001191077.1,amidohydrolase 2 (gi|146303761),0,1,0,0,0,0
+ref|YP_001191078.1,hypothetical protein Msed_0985 (gi|146303762),0,0,0,0,1,0
+ref|YP_001191079.1,TENA/THI-4 domain-containing protein (gi|146303763),0,4,1,8,6,3
+ref|YP_001191080.1,hypothetical protein Msed_0988 (gi|146303764),0,0,0,1,1,1
+ref|YP_001191081.1,glycoside hydrolase family protein (gi|146303765),2,4,1,7,4,6
+ref|YP_001191082.1,hypothetical protein Msed_0990 (gi|146303766),1,1,1,0,0,2
+ref|YP_001191083.1,hypothetical protein Msed_0991 (gi|146303767),5,8,9,5,6,7
+ref|YP_001191085.1,major facilitator transporter (gi|146303769),0,0,0,2,2,1
+ref|YP_001191086.1,flavin reductase (gi|146303770),0,0,0,0,0,1
+ref|YP_001191087.1,"3,4-dihydroxyphenylacetate 2,3-dioxygenase (gi|146303771)",9,9,8,26,22,13
+ref|YP_001191088.1,4-hydroxyphenylacetate 3-hydroxylase (gi|146303772),8,13,9,25,27,11
+ref|YP_001191089.1,Rieske (2Fe-2S) domain-containing protein (gi|146303773),1,1,1,1,0,0
+ref|YP_001191095.1,type 11 methyltransferase (gi|146303779),0,0,0,0,1,1
+ref|YP_001191098.1,inosine/uridine-preferring nucleoside hydrolase (gi|146303782),9,9,9,9,8,12
+ref|YP_001191099.1,3-oxoacyl-ACP reductase (gi|146303783),13,12,9,7,5,8
+ref|YP_001191100.1,Acetyl-CoA acetyltransferase-like protein (gi|146303784),16,15,14,12,8,12
+ref|YP_001191104.1,"peptidase M48, Ste24p (gi|146303788)",0,0,1,1,0,1
+ref|YP_001191105.1,major facilitator transporter (gi|146303789),0,0,0,1,0,1
+ref|YP_001191118.1,hypothetical protein Msed_1029 (gi|146303802),0,0,0,0,0,1
+ref|YP_001191131.1,malate synthase (gi|146303815),18,20,17,28,22,21
+ref|YP_001191132.1,hypothetical protein Msed_1043 (gi|146303816),1,1,1,4,2,1
+ref|YP_001191135.1,hypothetical protein Msed_1046 (gi|146303819),3,3,2,3,2,2
+ref|YP_001191141.1,"peptidase M19, renal dipeptidase (gi|146303825)",1,1,1,1,1,1
+ref|YP_001191142.1,N-acetyltransferase GCN5 (gi|146303826),10,10,9,3,1,3
+ref|YP_001191143.1,malate dehydrogenase (gi|146303827),16,17,14,5,2,13
+ref|YP_001191145.1,LmbE family protein (gi|146303829),1,1,0,0,0,1
+ref|YP_001191146.1,dimethylmenaquinone methyltransferase (gi|146303830),2,0,1,0,1,1
+ref|YP_001191150.1,hypothetical protein Msed_1061 (gi|146303834),0,0,0,1,0,0
+ref|YP_001191151.1,iron-containing alcohol dehydrogenase (gi|146303835),0,1,0,1,1,0
+ref|YP_001191152.1,molybdopterin binding aldehyde oxidase and xanthine dehydrogenase (gi|146303836),14,14,12,16,11,14
+ref|YP_001191160.1,alpha/beta hydrolase domain-containing protein (gi|146303844),9,8,7,4,6,7
+ref|YP_001191167.1,peroxiredoxin (gi|146303851),4,6,5,7,3,4
+ref|YP_001191168.1,glutamine amidotransferase-like protein (gi|146303852),0,0,0,1,0,1
+ref|YP_001191172.1,hypothetical protein Msed_1084 (gi|146303856),1,1,1,2,0,2
+ref|YP_001191176.1,type II haloacid dehalogenase (gi|146303860),1,1,1,1,1,1
+ref|YP_001191179.1,dihydrolipoamide dehydrogenase (gi|146303863),5,10,5,7,7,4
+ref|YP_001191180.1,pirin (gi|146303864),4,5,3,4,3,2
+ref|YP_001191184.1,NAD-dependent deacetylase (gi|146303868),0,0,0,1,0,0
+ref|YP_001191186.1,hypothetical protein Msed_1098 (gi|146303870),3,2,4,2,2,2
+ref|YP_001191188.1,hypothetical protein Msed_1100 (gi|146303872),0,2,2,1,1,3
+ref|YP_001191190.1,hypothetical protein Msed_1102 (gi|146303874),0,1,0,2,1,3
+ref|YP_001191210.1,D-galactarate dehydratase/Altronate hydrolase domain-containing protein (gi|146303894),4,7,5,3,2,3
+ref|YP_001191212.1,GntR family transcriptional regulator (gi|146303896),0,0,0,1,0,0
+ref|YP_001191218.1,hypothetical protein Msed_1132 (gi|146303902),2,1,1,1,2,3
+ref|YP_001191224.1,hypothetical protein Msed_1139 (gi|146303908),0,0,0,1,2,0
+ref|YP_001191225.1,CRISPR-associated HD domain-containing protein (gi|146303909),0,0,0,1,0,0
+ref|YP_001191226.1,CRISPR-associated helicase Cas3 family protein (gi|146303910),0,0,0,1,2,0
+ref|YP_001191227.1,CRISPR-associated Cas5 family protein (gi|146303911),0,0,0,3,2,0
+ref|YP_001191228.1,CRISPR-associated autoregulator DevR family protein (gi|146303912),23,20,19,19,18,14
+ref|YP_001191229.1,CRISPR-associated RAMP Csa5 family protein (gi|146303913),2,2,1,2,1,1
+ref|YP_001191239.1,CRISPR-associated DxTHG family protein (gi|146303923),0,0,0,1,0,1
+ref|YP_001191245.1,CRISPR-associated Csx7 family protein (gi|146303929),0,1,1,1,1,1
+ref|YP_001191246.1,CRISPR-associated Csx7 family protein (gi|146303930),0,0,0,1,0,0
+ref|YP_001191248.1,hypothetical protein Msed_1163 (gi|146303932),0,0,0,5,0,1
+ref|YP_001191250.1,hypothetical protein Msed_1165 (gi|146303934),0,1,0,0,1,0
+ref|YP_001191259.1,penicillin amidase (gi|146303943),0,0,0,1,1,1
+ref|YP_001191260.1,thiamine pyrophosphate binding domain-containing protein (gi|146303944),4,6,3,2,4,3
+ref|YP_001191263.1,glycerophosphodiester phosphodiesterase (gi|146303947),0,0,0,1,0,0
+ref|YP_001191271.1,mechanosensitive ion channel MscS (gi|146303955),1,0,1,1,1,1
+ref|YP_001191284.1,thiamine pyrophosphate binding domain-containing protein (gi|146303968),0,0,0,8,10,0
+ref|YP_001191285.1,pyruvate flavodoxin/ferredoxin oxidoreductase domain-containing protein (gi|146303969),3,2,2,13,7,0
+ref|YP_001191286.1,pyruvate ferredoxin/flavodoxin oxidoreductase subunit delta (gi|146303970),0,2,0,11,8,0
+ref|YP_001191289.1,major facilitator transporter (gi|146303973),0,0,0,2,1,0
+ref|YP_001191295.1,rhodanese domain-containing protein (gi|146303979),55,54,53,28,23,38
+ref|YP_001191297.1,"transketolase, central region (gi|146303981)",7,10,8,8,8,7
+ref|YP_001191298.1,pyruvate dehydrogenase (gi|146303982),9,11,7,8,6,5
+ref|YP_001191301.1,dehydratase (gi|146303985),10,9,8,3,4,4
+ref|YP_001191302.1,Acetyl-CoA hydrolase (gi|146303986),4,3,2,2,2,3
+ref|YP_001191303.1,acyl-CoA dehydrogenase domain-containing protein (gi|146303987),3,2,2,2,2,2
+ref|YP_001191304.1,amidohydrolase (gi|146303988),8,8,6,5,6,5
+ref|YP_001191305.1,vinylacetyl-CoA Delta-isomerase (gi|146303989),12,15,14,8,6,7
+ref|YP_001191308.1,3-ketoacyl-ACP reductase (gi|146303992),3,1,1,2,1,3
+ref|YP_001191314.1,hypothetical protein Msed_1229 (gi|146303998),0,1,0,0,0,0
+ref|YP_001191321.1,beta-lactamase domain-containing protein (gi|146304005),3,3,3,3,3,3
+ref|YP_001191332.1,electron transfer flavoprotein subunit alpha (gi|146304016),36,35,35,17,14,17
+ref|YP_001191333.1,FAD dependent oxidoreductase (gi|146304017),19,24,18,9,8,10
+ref|YP_001191334.1,4Fe-4S ferredoxin (gi|146304018),2,1,1,1,0,0
+ref|YP_001191335.1,signal-transduction protein (gi|146304019),1,0,0,1,1,0
+ref|YP_001191354.1,molybdopterin binding aldehyde oxidase and xanthine dehydrogenase (gi|146304038),26,28,25,27,25,22
+ref|YP_001191356.1,hypothetical protein Msed_1272 (gi|146304040),6,5,2,8,6,6
+ref|YP_001191362.1,MarR family transcriptional regulator (gi|146304046),1,0,0,3,0,0
+ref|YP_001191364.1,hypothetical protein Msed_1281 (gi|146304048),10,8,10,8,6,7
+ref|YP_001191366.1,D-isomer specific 2-hydroxyacid dehydrogenase (gi|146304050),6,5,3,6,3,5
+ref|YP_001191367.1,radical SAM protein (gi|146304051),0,0,0,0,1,0
+ref|YP_001191368.1,carboxymethylenebutenolidase (gi|146304052),5,6,3,5,5,5
+ref|YP_001191369.1,ABC transporter-like protein (gi|146304053),0,2,0,6,8,1
+ref|YP_001191372.1,sugar ABC transporter substrate-binding protein (gi|146304056),5,7,6,6,5,4
+ref|YP_001191373.1,propanoyl-CoA C-acyltransferase (gi|146304057),4,6,2,7,4,5
+ref|YP_001191374.1,AMP-dependent synthetase and ligase (gi|146304058),1,1,1,1,1,1
+ref|YP_001191375.1,SMP-30/gluconolaconase/LRE domain-containing protein (gi|146304059),1,1,1,2,2,1
+ref|YP_001191376.1,heat shock protein Hsp20 (gi|146304060),3,2,2,3,2,1
+ref|YP_001191377.1,hypothetical protein Msed_1295 (gi|146304061),1,1,0,0,0,0
+ref|YP_001191378.1,2-keto-3-deoxygalactonate aldolase (gi|146304062),5,5,3,5,5,3
+ref|YP_001191379.1,2-keto-3-deoxygalactonate kinase (gi|146304063),1,1,1,3,1,0
+ref|YP_001191380.1,nonphosphorylating glyceraldehyde-3-phosphate dehydrogenase (gi|146304064),19,24,19,18,12,18
+ref|YP_001191382.1,peptidase S9 prolyl oligopeptidase (gi|146304066),13,17,15,6,4,7
+ref|YP_001191383.1,galactose 1-dehydrogenase / glucose 1-dehydrogenase (gi|146304067),3,2,1,4,3,5
+ref|YP_001191384.1,radical SAM protein (gi|146304068),0,0,0,1,0,0
+ref|YP_001191385.1,gluconate dehydratase (gi|146304069),18,16,12,13,12,12
+ref|YP_001191391.1,glutamine amidotransferase (gi|146304075),0,0,0,1,0,0
+ref|YP_001191392.1,cyclase family protein (gi|146304076),10,11,7,9,5,6
+ref|YP_001191393.1,OsmC family protein (gi|146304077),4,5,2,5,4,3
+ref|YP_001191396.1,alkyl hydroperoxide reductase (gi|146304080),0,1,0,4,4,5
+ref|YP_001191400.1,formate dehydrogenase subunit alpha (gi|146304084),27,27,34,21,16,16
+ref|YP_001191401.1,hypothetical protein Msed_1319 (gi|146304085),1,2,0,0,0,0
+ref|YP_001191402.1,formate dehydrogenase family accessory protein FdhD (gi|146304086),4,3,3,2,3,2
+ref|YP_001191403.1,vinylacetyl-CoA Delta-isomerase (gi|146304087),0,1,1,4,5,1
+ref|YP_001191404.1,glycoside hydrolase family protein (gi|146304088),0,0,0,0,0,2
+ref|YP_001191423.1,hypothetical protein Msed_1341 (gi|146304107),1,1,0,0,0,0
+ref|YP_001191424.1,chromosome partitioning ATPase (gi|146304108),0,1,0,4,2,1
+ref|YP_001191427.1,thioesterase-like protein (gi|146304111),1,3,1,3,2,4
+ref|YP_001191431.1,hypothetical protein Msed_1349 (gi|146304115),1,1,3,2,0,1
+ref|YP_001191432.1,hypothetical protein Msed_1350 (gi|146304116),1,2,1,0,0,0
+ref|YP_001191433.1,TenA family transcription regulator (gi|146304117),0,2,0,0,0,0
+ref|YP_001191435.1,acetyl-CoA synthetase (gi|146304119),54,53,56,50,43,42
+ref|YP_001191436.1,"type III restriction enzyme, res subunit (gi|146304120)",0,0,0,1,1,0
+ref|YP_001191440.1,5-carboxymethyl-2-hydroxymuconate delta-isomerase (gi|146304124),19,18,16,14,19,17
+ref|YP_001191443.1,hypothetical protein Msed_1361 (gi|146304127),1,3,0,3,1,0
+ref|YP_001191444.1,hypothetical protein Msed_1362 (gi|146304128),4,3,6,4,6,5
+ref|YP_001191445.1,FAD dependent oxidoreductase (gi|146304129),0,1,1,2,2,3
+ref|YP_001191446.1,GMP synthase subunit A (gi|146304130),2,2,0,1,2,0
+ref|YP_001191448.1,endonuclease V (gi|146304132),1,0,0,0,0,0
+ref|YP_001191449.1,hypothetical protein Msed_1367 (gi|146304133),3,6,4,4,5,4
+ref|YP_001191450.1,hypothetical protein Msed_1368 (gi|146304134),3,1,1,2,2,2
+ref|YP_001191451.1,peptidase S8/S53 subtilisin kexin sedolisin (gi|146304135),1,0,0,0,1,0
+ref|YP_001191452.1,hypothetical protein Msed_1370 (gi|146304136),0,1,0,0,0,1
+ref|YP_001191454.1,dinitrogenase iron-molybdenum cofactor biosynthesis protein (gi|146304138),5,7,3,5,4,3
+ref|YP_001191456.1,DEAD/DEAH box helicase (gi|146304140),1,1,1,1,1,1
+ref|YP_001191457.1,propionyl-CoA carboxylase carboxyltransferase subunit alpha / propionyl-CoA carboxylase carboxyltransferase subunit beta (gi|146304141),20,23,18,20,19,11
+ref|YP_001191465.1,von Willebrand factor A (gi|146304149),6,6,6,9,7,5
+ref|YP_001191469.1,xanthine and Co dehydrogenase maturation factor (gi|146304153),8,5,5,3,2,4
+ref|YP_001191470.1,hypothetical protein Msed_1388 (gi|146304154),1,0,0,0,0,1
+ref|YP_001191471.1,Zn-dependent protease-like protein (gi|146304155),2,0,1,2,2,1
+ref|YP_001191472.1,hexokinase (gi|146304156),0,2,0,2,2,4
+ref|YP_001191474.1,hypothetical protein Msed_1392 (gi|146304158),0,0,0,1,0,0
+ref|YP_001191475.1,peptidase M28 (gi|146304159),0,0,1,0,0,0
+ref|YP_001191479.1,transcriptional regulator TrmB (gi|146304163),0,0,1,0,1,0
+ref|YP_001191481.1,CoA-binding domain-containing protein (gi|146304165),20,20,23,25,25,19
+ref|YP_001191482.1,threonine synthase (gi|146304166),2,0,1,1,0,0
+ref|YP_001191485.1,endoribonuclease L-PSP (gi|146304169),11,6,9,4,3,4
+ref|YP_001191486.1,hypothetical protein Msed_1404 (gi|146304170),0,2,1,3,2,1
+ref|YP_001191487.1,hypothetical protein Msed_1405 (gi|146304171),1,0,1,0,1,0
+ref|YP_001191488.1,creatininase (gi|146304172),0,0,0,1,0,0
+ref|YP_001191490.1,hypothetical protein Msed_1408 (gi|146304174),1,0,1,0,0,0
+ref|YP_001191494.1,pyruvate kinase (gi|146304178),1,5,3,3,3,4
+ref|YP_001191496.1,D-proline dehydrogenase (gi|146304180),7,8,6,6,9,6
+ref|YP_001191499.1,starch synthase (gi|146304183),11,13,9,13,13,14
+ref|YP_001191500.1,Alpha-amylase (gi|146304184),7,10,7,8,7,7
+ref|YP_001191501.1,nucleotidyl transferase (gi|146304185),14,9,13,8,7,7
+ref|YP_001191502.1,glycoside hydrolase family protein (gi|146304186),0,2,1,2,2,1
+ref|YP_001191503.1,glycogen debranching protein (gi|146304187),3,3,1,2,1,3
+ref|YP_001191504.1,coenzyme F390 synthetase-like protein (gi|146304188),4,5,2,8,8,3
+ref|YP_001191505.1,3-hydroxyacyl-CoA dehydrogenase (gi|146304189),6,10,8,11,8,7
+ref|YP_001191507.1,signal-transduction protein (gi|146304191),1,1,1,1,0,0
+ref|YP_001191508.1,alcohol dehydrogenase (gi|146304192),1,1,1,2,1,0
+ref|YP_001191515.1,exodeoxyribonuclease III Xth (gi|146304199),1,0,1,2,2,0
+ref|YP_001191529.1,phosphoribosylaminoimidazole carboxylase catalytic subunit (gi|146304213),2,0,0,1,1,1
+ref|YP_001191530.1,phosphoribosylaminoimidazole carboxylase ATPase subunit (gi|146304214),3,1,3,2,2,1
+ref|YP_001191531.1,molybdenum-binding protein (gi|146304215),2,2,2,0,3,1
+ref|YP_001191532.1,triosephosphate isomerase (gi|146304216),5,2,3,5,3,5
+ref|YP_001191533.1,phosphoenolpyruvate carboxykinase (gi|146304217),16,16,22,22,21,23
+ref|YP_001191535.1,beta-lactamase domain-containing protein (gi|146304219),10,6,8,7,6,2
+ref|YP_001191536.1,amino acid permease-associated protein (gi|146304220),2,4,2,6,3,4
+ref|YP_001191537.1,AMP-dependent synthetase and ligase (gi|146304221),0,0,0,2,4,0
+ref|YP_001191538.1,formate dehydrogenase subunit alpha (gi|146304222),1,3,0,2,1,2
+ref|YP_001191539.1,aldose 1-epimerase (gi|146304223),0,0,0,0,0,1
+ref|YP_001191542.1,hypothetical protein Msed_1461 (gi|146304226),3,3,3,5,4,5
+ref|YP_001191543.1,fumarate hydratase (gi|146304227),12,15,12,16,9,9
+ref|YP_001191546.1,hypothetical protein Msed_1465 (gi|146304230),8,11,11,9,12,9
+ref|YP_001191547.1,hypothetical protein Msed_1466 (gi|146304231),8,9,6,9,7,7
+ref|YP_001191548.1,aconitate hydratase (gi|146304232),55,61,61,38,34,33
+ref|YP_001191549.1,AbrB family transcriptional regulator (gi|146304233),9,9,8,9,10,6
+ref|YP_001191551.1,hypothetical protein Msed_1470 (gi|146304235),0,0,0,2,0,1
+ref|YP_001191552.1,coenzyme A transferase (gi|146304236),2,1,1,1,1,1
+ref|YP_001191553.1,coenzyme A transferase (gi|146304237),0,2,0,1,2,1
+ref|YP_001191555.1,signal transduction protein (gi|146304239),1,1,1,1,1,1
+ref|YP_001191556.1,DSBA oxidoreductase (gi|146304240),6,4,6,6,8,7
+ref|YP_001191557.1,hypothetical protein Msed_1476 (gi|146304241),2,2,2,1,0,0
+ref|YP_001191560.1,signal-transduction protein (gi|146304244),1,1,0,1,1,2
+ref|YP_001191561.1,lipoate-protein ligase (gi|146304245),5,9,7,4,3,2
+ref|YP_001191562.1,glycine cleavage system protein H (gi|146304246),2,1,1,1,0,2
+ref|YP_001191565.1,hypothetical protein Msed_1484 (gi|146304249),24,22,19,15,14,10
+ref|YP_001191566.1,hypothetical protein Msed_1485 (gi|146304250),0,0,1,0,0,1
+ref|YP_001191570.1,hypothetical protein Msed_1489 (gi|146304254),3,3,3,2,3,3
+ref|YP_001191571.1,FHA domain-containing protein (gi|146304255),3,1,2,3,2,5
+ref|YP_001191572.1,metallophosphoesterase (gi|146304256),5,6,5,3,2,3
+ref|YP_001191573.1,"von Willebrand factor, type A (gi|146304257)",24,25,22,20,17,16
+ref|YP_001191577.1,Na+/solute symporter (gi|146304261),1,1,1,3,3,3
+ref|YP_001191579.1,hypothetical protein Msed_1498 (gi|146304263),0,0,0,1,0,0
+ref|YP_001191581.1,hypothetical protein Msed_1500 (gi|146304265),18,20,15,12,10,15
+ref|YP_001191586.1,hypothetical protein Msed_1505 (gi|146304270),1,2,1,2,1,1
+ref|YP_001191587.1,biotin/lipoate A/B protein ligase (gi|146304271),2,1,1,3,2,1
+ref|YP_001191590.1,FAD-dependent pyridine nucleotide-disulfide oxidoreductase (gi|146304274),7,8,9,12,13,12
+ref|YP_001191600.1,hypothetical protein Msed_1520 (gi|146304284),7,6,6,5,4,10
+ref|YP_001191602.1,citrate synthase (gi|146304286),2,4,3,1,1,2
+ref|YP_001191605.1,peroxiredoxin (gi|146304289),41,60,46,39,39,34
+ref|YP_001191607.1,isochorismatase hydrolase (gi|146304291),2,1,1,3,3,3
+ref|YP_001191609.1,hypothetical protein Msed_1529 (gi|146304293),2,0,1,0,0,1
+ref|YP_001191610.1,ABC transporter-like protein (gi|146304294),6,8,7,8,6,7
+ref|YP_001191612.1,hypothetical protein Msed_1532 (gi|146304296),0,0,1,2,1,1
+ref|YP_001191621.1,CoB--CoM heterodisulfide reductase (gi|146304305),10,11,11,5,7,8
+ref|YP_001191622.1,heterodisulfide reductase subunit C-like protein (gi|146304306),19,16,19,12,13,15
+ref|YP_001191623.1,hypothetical protein Msed_1544 (gi|146304307),10,11,10,10,9,7
+ref|YP_001191624.1,FAD-dependent pyridine nucleotide-disulfide oxidoreductase (gi|146304308),48,50,42,28,26,26
+ref|YP_001191625.1,hypothetical protein Msed_1546 (gi|146304309),22,16,22,16,14,10
+ref|YP_001191626.1,heterodisulfide reductase subunit C-like protein (gi|146304310),10,8,10,12,9,7
+ref|YP_001191627.1,SirA family protein (gi|146304311),6,6,5,4,5,5
+ref|YP_001191628.1,hypothetical protein Msed_1549 (gi|146304312),13,14,15,11,13,12
+ref|YP_001191629.1,DsrE family protein (gi|146304313),8,9,10,7,6,11
+ref|YP_001191630.1,dihydrolipoamide dehydrogenase (gi|146304314),0,0,1,0,0,0
+ref|YP_001191631.1,hypothetical protein Msed_1552 (gi|146304315),0,0,0,1,1,1
+ref|YP_001191632.1,hypothetical protein Msed_1553 (gi|146304316),1,1,1,1,1,1
+ref|YP_001191634.1,hypothetical protein Msed_1555 (gi|146304318),26,26,22,21,18,21
+ref|YP_001191639.1,biotin/lipoate A/B protein ligase (gi|146304323),0,1,1,1,0,0
+ref|YP_001191640.1,hypothetical protein Msed_1561 (gi|146304324),0,0,0,0,1,0
+ref|YP_001191641.1,CoA-binding domain-containing protein (gi|146304325),3,2,3,4,3,0
+ref|YP_001191643.1,hypothetical protein Msed_1564 (gi|146304327),2,0,0,0,0,0
+ref|YP_001191645.1,transcriptional regulator TrmB (gi|146304329),1,0,1,1,0,1
+ref|YP_001191646.1,hypothetical protein Msed_1567 (gi|146304330),2,1,1,3,1,1
+ref|YP_001191649.1,glycine cleavage H-protein (gi|146304333),3,2,1,3,1,1
+ref|YP_001191654.1,phosphomevalonate kinase (gi|146304338),2,0,2,3,3,5
+ref|YP_001191655.1,diphosphomevalonate decarboxylase (gi|146304339),1,0,0,4,2,2
+ref|YP_001191656.1,metal dependent phosphohydrolase (gi|146304340),2,2,1,0,1,1
+ref|YP_001191657.1,purine phosphorylase family 1 (gi|146304341),10,11,11,4,6,7
+ref|YP_001191659.1,hypothetical protein Msed_1580 (gi|146304343),6,3,3,4,2,2
+ref|YP_001191660.1,succinyl-CoA synthetase subunit alpha (gi|146304344),27,29,25,11,14,14
+ref|YP_001191661.1,succinyl-CoA synthetase subunit beta (gi|146304345),48,47,44,23,21,25
+ref|YP_001191663.1,glycosyl transferase family 28 (gi|146304347),1,2,0,1,0,1
+ref|YP_001191664.1,threonyl-tRNA synthetase (gi|146304348),29,31,31,40,40,30
+ref|YP_001191665.1,methylated-DNA--protein-cysteine methyltransferase (gi|146304349),1,0,0,2,3,2
+ref|YP_001191668.1,UspA domain-containing protein (gi|146304352),10,7,10,10,9,9
+ref|YP_001191669.1,group 1 glycosyl transferase (gi|146304353),0,1,0,5,5,3
+ref|YP_001191673.1,ATP:cob(I)alamin adenosyltransferase (gi|146304357),0,1,0,2,2,1
+ref|YP_001191675.1,pyruvate ferredoxin/flavodoxin oxidoreductase (gi|146304359),4,7,6,3,4,5
+ref|YP_001191676.1,thiamine pyrophosphate binding domain-containing protein (gi|146304360),1,5,3,2,3,6
+ref|YP_001191677.1,hypothetical protein Msed_1598 (gi|146304361),0,0,0,0,1,0
+ref|YP_001191678.1,nascent polypeptide-associated complex protein (gi|146304362),5,2,3,1,1,2
+ref|YP_001191679.1,beta-lactamase domain-containing protein (gi|146304363),20,21,17,16,18,17
+ref|YP_001191680.1,Ser-tRNA(Thr) hydrolase (gi|146304364),8,10,9,11,7,9
+ref|YP_001191681.1,mevalonate kinase (gi|146304365),1,3,2,1,1,2
+ref|YP_001191682.1,glucosamine--fructose-6-phosphate aminotransferase (gi|146304366),18,22,18,18,17,22
+ref|YP_001191683.1,nucleotidyl transferase (gi|146304367),25,21,21,11,11,13
+ref|YP_001191684.1,peroxiredoxins-like protein (gi|146304368),1,1,1,2,2,2
+ref|YP_001191686.1,pyridoxal-5'-phosphate-dependent enzyme subunit beta (gi|146304370),4,6,5,1,1,1
+ref|YP_001191687.1,Mn2+-dependent serine/threonine protein kinase (gi|146304371),0,0,0,1,0,0
+ref|YP_001191689.1,peptidase M24 (gi|146304373),13,16,15,15,10,13
+ref|YP_001191690.1,GTP cyclohydrolase I (gi|146304374),0,1,0,1,1,1
+ref|YP_001191691.1,L-glutamine synthetase (gi|146304375),26,34,23,38,34,24
+ref|YP_001191693.1,thioredoxin (gi|146304377),1,1,0,1,0,1
+ref|YP_001191694.1,AMP-dependent synthetase and ligase (gi|146304378),2,1,3,3,3,2
+ref|YP_001191695.1,beta-ribofuranosylaminobenzene 5'-phosphate synthase (gi|146304379),0,1,1,1,1,1
+ref|YP_001191696.1,Fmu (Sun) domain-containing protein (gi|146304380),0,0,0,0,1,0
+ref|YP_001191697.1,carbonic anhydrase (gi|146304381),7,6,8,9,10,5
+ref|YP_001191700.1,hypothetical protein Msed_1621 (gi|146304384),10,6,7,12,8,7
+ref|YP_001191701.1,SpoVT/AbrB domain-containing protein (gi|146304385),7,11,9,15,12,8
+ref|YP_001191702.1,nicotinate phosphoribosyltransferase (gi|146304386),3,4,4,6,6,5
+ref|YP_001191703.1,30S ribosomal protein S19e (gi|146304387),9,17,12,11,10,10
+ref|YP_001191704.1,hypothetical protein Msed_1625 (gi|146304388),1,1,0,3,4,2
+ref|YP_001191705.1,50S ribosomal protein L39e (gi|146304389),1,1,1,2,0,0
+ref|YP_001191706.1,50S ribosomal protein L31e (gi|146304390),9,11,8,10,8,7
+ref|YP_001191707.1,translation initiation factor IF-6 (gi|146304391),3,1,1,3,2,2
+ref|YP_001191708.1,50S ribosomal protein LX (gi|146304392),7,8,7,7,9,6
+ref|YP_001191709.1,prefoldin subunit alpha (gi|146304393),10,15,11,10,8,8
+ref|YP_001191710.1,signal recognition particle-docking protein FtsY (gi|146304394),1,1,1,2,3,2
+ref|YP_001191712.1,transcription antitermination protein NusG (gi|146304396),1,1,1,3,2,1
+ref|YP_001191713.1,50S ribosomal protein L11 (gi|146304397),14,17,12,11,13,12
+ref|YP_001191714.1,50S ribosomal protein L1P (gi|146304398),20,17,18,24,19,11
+ref|YP_001191715.1,acidic ribosomal protein P0 (gi|146304399),14,19,12,18,16,12
+ref|YP_001191716.1,50S ribosomal protein L12 (gi|146304400),6,8,5,6,6,4
+ref|YP_001191717.1,alanyl-tRNA synthetase (gi|146304401),24,32,35,38,36,32
+ref|YP_001191720.1,hypothetical protein Msed_1641 (gi|146304404),1,0,1,0,0,0
+ref|YP_001191725.1,hypothetical protein Msed_1646 (gi|146304409),26,31,24,21,22,20
+ref|YP_001191726.1,Acetyl-CoA acetyltransferase-like protein (gi|146304410),18,21,16,17,11,20
+ref|YP_001191727.1,hypothetical protein Msed_1648 (gi|146304411),8,7,7,5,5,6
+ref|YP_001191728.1,3-hydroxy-3-methylglutaryl-coenzyme A reductase (gi|146304412),9,6,9,6,8,5
+ref|YP_001191729.1,serine hydroxymethyltransferase (gi|146304413),46,43,44,38,42,35
+ref|YP_001191730.1,UspA domain-containing protein (gi|146304414),4,5,3,1,1,1
+ref|YP_001191731.1,glyceraldehyde-3-phosphate dehydrogenase (gi|146304415),18,25,18,19,18,13
+ref|YP_001191732.1,phosphoglycerate kinase (gi|146304416),19,23,19,18,21,18
+ref|YP_001191734.1,membrane-bound metal-dependent hydrolase (gi|146304418),0,0,0,0,0,1
+ref|YP_001191735.1,SufBD protein (gi|146304419),16,19,15,14,13,13
+ref|YP_001191736.1,FeS assembly protein SufB (gi|146304420),17,22,14,15,18,16
+ref|YP_001191737.1,FeS assembly ATPase SufC (gi|146304421),43,35,31,26,25,27
+ref|YP_001191738.1,SpoVT/AbrB domain-containing protein (gi|146304422),3,4,3,6,5,8
+ref|YP_001191739.1,hypothetical protein Msed_1660 (gi|146304423),2,3,3,0,0,1
+ref|YP_001191740.1,hypothetical protein Msed_1661 (gi|146304424),17,16,12,16,14,18
+ref|YP_001191741.1,glycine cleavage system protein H (gi|146304425),0,0,0,1,0,0
+ref|YP_001191742.1,glycine cleavage system aminomethyltransferase T (gi|146304426),17,14,12,17,14,16
+ref|YP_001191743.1,glycine dehydrogenase subunit 1 (gi|146304427),9,7,9,9,9,10
+ref|YP_001191744.1,glycine dehydrogenase subunit 2 (gi|146304428),6,3,6,9,5,4
+ref|YP_001191746.1,hypothetical protein Msed_1667 (gi|146304430),1,1,1,1,2,2
+ref|YP_001191747.1,phosphopyruvate hydratase (gi|146304431),21,20,19,17,13,12
+ref|YP_001191749.1,hypothetical protein Msed_1670 (gi|146304433),0,0,1,0,0,2
+ref|YP_001191752.1,DNA-directed RNA polymerase K (gi|146304436),1,1,1,2,2,2
+ref|YP_001191753.1,class V aminotransferase (gi|146304437),9,12,8,11,12,10
+ref|YP_001191754.1,D-3-phosphoglycerate dehydrogenase (gi|146304438),1,0,0,0,0,0
+ref|YP_001191760.1,hypothetical protein Msed_1681 (gi|146304444),0,0,1,0,1,0
+ref|YP_001191761.1,dehydrogenase (flavoprotein)-like protein (gi|146304445),0,0,0,0,0,1
+ref|YP_001191762.1,valyl-tRNA synthetase (gi|146304446),5,11,7,13,8,10
+ref|YP_001191763.1,aspartate aminotransferase (gi|146304447),16,19,17,16,14,11
+ref|YP_001191764.1,indole-3-glycerol-phosphate synthase (gi|146304448),2,1,3,3,1,3
+ref|YP_001191765.1,anthranilate synthase component II (gi|146304449),0,0,0,2,1,0
+ref|YP_001191766.1,anthranilate synthase component I (gi|146304450),4,6,2,10,6,7
+ref|YP_001191768.1,anthranilate phosphoribosyltransferase (gi|146304452),2,2,2,3,1,3
+ref|YP_001191769.1,tryptophan synthase subunit alpha (gi|146304453),3,3,3,0,2,1
+ref|YP_001191770.1,tryptophan synthase subunit beta (gi|146304454),9,12,10,12,8,5
+ref|YP_001191772.1,myo-inositol-1-phosphate synthase (gi|146304456),12,12,9,14,12,10
+ref|YP_001191773.1,phosphoenolpyruvate synthase (gi|146304457),2,2,2,15,16,3
+ref|YP_001191774.1,hypothetical protein Msed_1695 (gi|146304458),2,3,3,0,0,2
+ref|YP_001191775.1,hypothetical protein Msed_1696 (gi|146304459),2,2,3,4,4,4
+ref|YP_001191776.1,3-octaprenyl-4-hydroxybenzoate carboxy-lyase (gi|146304460),1,2,1,3,4,2
+ref|YP_001191777.1,threonine synthase (gi|146304461),7,3,5,7,8,3
+ref|YP_001191778.1,aspartate kinase (gi|146304462),13,14,12,10,11,14
+ref|YP_001191779.1,aspartate-semialdehyde dehydrogenase (gi|146304463),22,17,13,12,10,10
+ref|YP_001191782.1,ornithine carbamoyltransferase (gi|146304466),3,4,6,7,6,6
+ref|YP_001191783.1,hypothetical protein Msed_1704 (gi|146304467),0,1,0,0,0,0
+ref|YP_001191784.1,ATP-NAD/AcoX kinase (gi|146304468),0,0,0,1,0,0
+ref|YP_001191786.1,hypothetical protein Msed_1707 (gi|146304470),0,0,0,0,0,1
+ref|YP_001191787.1,hypothetical protein Msed_1708 (gi|146304471),0,0,0,1,0,0
+ref|YP_001191789.1,thermosome (gi|146304473),97,100,91,70,71,72
+ref|YP_001191790.1,hypothetical protein Msed_1711 (gi|146304474),2,3,1,3,2,2
+ref|YP_001191791.1,hypothetical protein Msed_1712 (gi|146304475),0,0,0,1,0,0
+ref|YP_001191794.1,arginyl-tRNA synthetase (gi|146304478),8,12,8,15,15,12
+ref|YP_001191795.1,ribonucleoside-diphosphate reductase (gi|146304479),33,53,34,29,26,25
+ref|YP_001191798.1,glutamyl-tRNA(Gln) amidotransferase subunit E (gi|146304482),7,9,9,16,13,10
+ref|YP_001191799.1,glutamyl-tRNA(Gln) amidotransferase subunit D (gi|146304483),6,6,3,7,8,5
+ref|YP_001191800.1,30S ribosomal protein S30e (gi|146304484),1,0,1,1,0,0
+ref|YP_001191801.1,C/D box methylation guide ribonucleoprotein complex aNOP56 subunit (gi|146304485),33,22,30,29,23,20
+ref|YP_001191802.1,fibrillarin (gi|146304486),10,12,10,12,10,8
+ref|YP_001191804.1,hypothetical protein Msed_1725 (gi|146304488),0,0,0,0,1,1
+ref|YP_001191806.1,hypothetical protein Msed_1727 (gi|146304490),0,1,0,1,1,0
+ref|YP_001191807.1,transcription factor (gi|146304491),3,3,2,2,2,1
+ref|YP_001191808.1,hypothetical protein Msed_1729 (gi|146304492),4,4,4,4,4,4
+ref|YP_001191810.1,hypothetical protein Msed_1731 (gi|146304494),18,21,15,12,7,13
+ref|YP_001191811.1,H/ACA RNA-protein complex component Gar1 (gi|146304495),1,1,0,0,1,0
+ref|YP_001191814.1,diphthine synthase (gi|146304498),1,2,0,2,2,2
+ref|YP_001191816.1,hypothetical protein Msed_1737 (gi|146304500),7,8,5,10,5,5
+ref|YP_001191818.1,aspartyl/glutamyl-tRNA amidotransferase subunit A (gi|146304502),11,9,12,13,12,11
+ref|YP_001191819.1,aspartyl/glutamyl-tRNA amidotransferase subunit C (gi|146304503),0,2,0,1,2,1
+ref|YP_001191823.1,hypothetical protein Msed_1744 (gi|146304507),1,0,0,0,0,0
+ref|YP_001191825.1,hypothetical protein Msed_1746 (gi|146304509),3,1,1,1,0,1
+ref|YP_001191826.1,DNA/RNA-binding protein albA (gi|146304510),24,23,17,17,19,16
+ref|YP_001191828.1,DNA/RNA-binding protein (gi|146304512),6,3,3,4,2,4
+ref|YP_001191829.1,DEAD/DEAH box helicase (gi|146304513),0,1,0,0,0,0
+ref|YP_001191831.1,hypothetical protein Msed_1752 (gi|146304515),17,16,15,18,18,14
+ref|YP_001191832.1,deoxyhypusine synthase (gi|146304516),3,3,2,4,3,3
+ref|YP_001191833.1,DNA topoisomerase VI subunit B (gi|146304517),2,3,3,8,3,5
+ref|YP_001191834.1,DNA topoisomerase VI subunit A (gi|146304518),1,7,4,4,4,2
+ref|YP_001191835.1,translation initiation factor IF-5A (gi|146304519),4,3,5,7,5,5
+ref|YP_001191836.1,signal recognition particle subunit FFH/SRP54 (srp54) (gi|146304520),1,2,1,1,2,1
+ref|YP_001191837.1,pseudouridylate synthase (gi|146304521),1,1,1,1,1,0
+ref|YP_001191838.1,6-phosphogluconate dehydrogenase (gi|146304522),15,13,10,9,11,10
+ref|YP_001191839.1,group 1 glycosyl transferase (gi|146304523),0,0,0,1,1,1
+ref|YP_001191840.1,short-chain dehydrogenase/reductase SDR (gi|146304524),4,4,3,3,3,3
+ref|YP_001191841.1,hypothetical protein Msed_1762 (gi|146304525),3,5,5,11,11,8
+ref|YP_001191842.1,uridylate kinase (gi|146304526),3,5,6,6,6,6
+ref|YP_001191843.1,hypothetical protein Msed_1764 (gi|146304527),1,2,1,2,2,2
+ref|YP_001191844.1,2-isopropylmalate synthase (gi|146304528),0,0,0,11,8,0
+ref|YP_001191846.1,hypothetical protein Msed_1767 (gi|146304530),0,0,0,1,0,0
+ref|YP_001191853.1,aldehyde dehydrogenase (gi|146304537),6,6,9,6,5,8
+ref|YP_001191854.1,"3,4-dihydroxyphenylacetate 2,3-dioxygenase (gi|146304538)",0,0,0,6,6,5
+ref|YP_001191855.1,4-hydroxyphenylacetate 3-hydroxylase (gi|146304539),2,9,3,11,10,16
+ref|YP_001191856.1,fumarylacetoacetate (FAA) hydrolase (gi|146304540),13,8,12,4,4,5
+ref|YP_001191857.1,short-chain dehydrogenase/reductase SDR (gi|146304541),1,1,1,5,5,5
+ref|YP_001191859.1,tungstate/molybdate binding protein (gi|146304543),0,0,0,0,0,2
+ref|YP_001191863.1,tRNA CCA-pyrophosphorylase (gi|146304547),0,0,0,1,0,0
+ref|YP_001191864.1,2'-5' RNA ligase (gi|146304548),1,2,3,4,4,2
+ref|YP_001191865.1,dephospho-CoA kinase-like protein (gi|146304549),4,2,3,5,5,4
+ref|YP_001191866.1,hypothetical protein Msed_1787 (gi|146304550),0,0,0,1,0,0
+ref|YP_001191869.1,ribose-phosphate pyrophosphokinase (gi|146304553),5,3,1,9,7,5
+ref|YP_001191870.1,GTPase (gi|146304554),2,1,1,4,1,0
+ref|YP_001191871.1,proliferating cell nuclear antigen (gi|146304555),3,4,3,6,4,5
+ref|YP_001191876.1,protein kinase (gi|146304560),0,0,0,3,0,0
+ref|YP_001191877.1,hypothetical protein Msed_1798 (gi|146304561),1,1,1,1,0,1
+ref|YP_001191878.1,ornithine cyclodeaminase (gi|146304562),2,2,1,1,2,1
+ref|YP_001191880.1,translation initiation factor IF-2 (gi|146304564),3,3,2,3,2,2
+ref|YP_001191881.1,30S ribosomal protein S27E (gi|146304565),0,1,0,1,3,1
+ref|YP_001191882.1,50S ribosomal protein L44e (gi|146304566),6,5,4,7,8,6
+ref|YP_001191883.1,oligosaccharyl transferase (gi|146304567),1,1,1,1,0,1
+ref|YP_001191884.1,hypothetical protein Msed_1806 (gi|146304568),6,5,6,5,10,6
+ref|YP_001191886.1,group 1 glycosyl transferase (gi|146304570),0,0,0,0,1,1
+ref|YP_001191887.1,NAD-dependent epimerase/dehydratase (gi|146304571),11,9,7,10,8,5
+ref|YP_001191888.1,UDP-glucose 6-dehydrogenase (gi|146304572),8,8,4,6,6,4
+ref|YP_001191889.1,UDP-glucose pyrophosphorylase (gi|146304573),6,5,3,5,4,3
+ref|YP_001191890.1,hypothetical protein Msed_1812 (gi|146304574),2,2,2,6,7,5
+ref|YP_001191899.1,FAD linked oxidase domain-containing protein (gi|146304583),5,4,6,4,3,3
+ref|YP_001191900.1,hypothetical protein Msed_1822 (gi|146304584),3,4,3,5,3,5
+ref|YP_001191906.1,group 1 glycosyl transferase (gi|146304590),0,0,0,0,1,0
+ref|YP_001191911.1,group 1 glycosyl transferase (gi|146304595),0,0,0,1,0,0
+ref|YP_001191912.1,glucose-1-phosphate thymidylyltransferase (gi|146304596),2,4,3,3,0,0
+ref|YP_001191914.1,"dTDP-glucose 4,6-dehydratase (gi|146304598)",1,1,2,2,1,3
+ref|YP_001191919.1,BadF/BadG/BcrA/BcrD type ATPase (gi|146304603),0,1,2,3,2,2
+ref|YP_001191920.1,bifunctional phosphoglucose/phosphomannose isomerase (gi|146304604),2,3,2,3,2,1
+ref|YP_001191921.1,nucleotidyl transferase (gi|146304605),3,2,2,2,3,1
+ref|YP_001191926.1,DNA-directed RNA polymerase L (gi|146304610),4,3,2,3,4,2
+ref|YP_001191927.1,exosome complex RNA-binding protein Csl4 (gi|146304611),4,3,3,4,3,2
+ref|YP_001191929.1,50S ribosomal protein L10e (gi|146304613),26,19,18,25,28,18
+ref|YP_001191930.1,thioredoxin/glutaredoxin-like protein (gi|146304614),10,12,9,15,9,13
+ref|YP_001191932.1,hypothetical protein Msed_1868 (gi|146304616),4,3,4,3,2,3
+ref|YP_001191935.1,3-phosphoshikimate 1-carboxyvinyltransferase (gi|146304619),2,0,1,0,0,0
+ref|YP_001191936.1,shikimate kinase (gi|146304620),0,1,0,2,0,0
+ref|YP_001191937.1,chorismate synthase (gi|146304621),1,3,0,4,0,1
+ref|YP_001191938.1,shikimate dehydrogenase (gi|146304622),1,1,1,3,3,3
+ref|YP_001191939.1,3-dehydroquinate synthase (gi|146304623),2,5,1,5,1,4
+ref|YP_001191940.1,3-deoxy-7-phosphoheptulonate synthase (gi|146304624),6,8,5,10,7,7
+ref|YP_001191941.1,chorismate mutase (gi|146304625),1,2,2,0,1,1
+ref|YP_001191942.1,transketolase subunit B (gi|146304626),10,11,9,7,7,8
+ref|YP_001191943.1,transketolase (gi|146304627),3,4,4,4,2,4
+ref|YP_001191946.1,hypothetical protein Msed_1882 (gi|146304630),2,1,1,3,2,3
+ref|YP_001191951.1,hypothetical protein Msed_1887 (gi|146304635),2,3,3,0,0,0
+ref|YP_001191952.1,hypothetical protein Msed_1888 (gi|146304636),2,5,1,3,4,4
+ref|YP_001191953.1,superoxide dismutase (gi|146304637),63,65,47,43,42,41
+ref|YP_001191954.1,nucleotidyl transferase (gi|146304638),8,9,6,8,5,7
+ref|YP_001191955.1,hypothetical protein Msed_1891 (gi|146304639),2,3,3,2,1,5
+ref|YP_001191956.1,hypothetical protein Msed_1892 (gi|146304640),3,5,3,10,12,4
+ref|YP_001191957.1,hypothetical protein Msed_1893 (gi|146304641),28,32,24,21,24,27
+ref|YP_001191958.1,"thymidylate synthase, flavin-dependent (gi|146304642)",2,3,2,8,5,6
+ref|YP_001191959.1,NADH dehydrogenase subunit A (gi|146304643),1,1,1,1,1,1
+ref|YP_001191960.1,NADH dehydrogenase subunit C (gi|146304644),8,10,9,7,8,7
+ref|YP_001191961.1,NADH dehydrogenase subunit D (gi|146304645),14,20,18,11,14,15
+ref|YP_001191962.1,NADH dehydrogenase subunit H (gi|146304646),2,2,3,1,0,1
+ref|YP_001191963.1,NADH dehydrogenase subunit I (gi|146304647),4,6,3,3,2,2
+ref|YP_001191966.1,NADH dehydrogenase (quinone) (gi|146304650),1,1,1,1,0,2
+ref|YP_001191967.1,NADH dehydrogenase subunit N (gi|146304651),1,1,1,0,0,1
+ref|YP_001191968.1,L-myo-inositol-1-phosphate synthase (gi|146304652),20,20,16,8,11,10
+ref|YP_001191969.1,hypothetical protein Msed_1905 (gi|146304653),1,2,1,1,0,0
+ref|YP_001191970.1,hypothetical protein Msed_1906 (gi|146304654),0,2,0,2,2,0
+ref|YP_001191971.1,DNA polymerase I (gi|146304655),0,2,0,5,2,2
+ref|YP_001191972.1,hypothetical protein Msed_1908 (gi|146304656),9,8,7,4,4,9
+ref|YP_001191973.1,hypothetical protein Msed_1909 (gi|146304657),9,13,8,13,15,8
+ref|YP_001191974.1,hypothetical protein Msed_1910 (gi|146304658),0,0,0,1,1,2
+ref|YP_001191977.1,methionyl-tRNA synthetase (gi|146304661),15,16,18,18,19,15
+ref|YP_001191978.1,V-type ATP synthase subunit I (gi|146304662),9,16,10,15,13,11
+ref|YP_001191979.1,"vacuolar H+-transporting two-sector ATPase, F subunit (gi|146304663)",4,5,2,6,3,4
+ref|YP_001191980.1,H+-transporting two-sector ATPase subunit E (gi|146304664),14,14,13,13,14,9
+ref|YP_001191981.1,V-type ATP synthase subunit A (gi|146304665),45,46,31,29,30,29
+ref|YP_001191982.1,V-type ATP synthase subunit B (gi|146304666),44,48,45,39,33,27
+ref|YP_001191983.1,V-type ATP synthase subunit D (gi|146304667),2,1,3,1,3,0
+ref|YP_001191985.1,prolyl-tRNA synthetase (gi|146304669),7,8,7,16,12,8
+ref|YP_001191986.1,30S ribosomal protein S26e (gi|146304670),4,3,3,4,4,5
+ref|YP_001191987.1,pyridoxal biosynthesis lyase PdxS (gi|146304671),24,23,18,15,13,14
+ref|YP_001191988.1,glutamine amidotransferase subunit PdxT (gi|146304672),21,17,18,12,13,13
+ref|YP_001191989.1,ATPase (gi|146304673),4,5,4,12,8,8
+ref|YP_001191991.1,ketol-acid reductoisomerase (gi|146304675),11,12,12,14,14,10
+ref|YP_001191992.1,hypothetical protein Msed_1928 (gi|146304676),0,0,0,2,1,0
+ref|YP_001191993.1,acetolactate synthase catalytic subunit (gi|146304677),1,0,0,6,7,0
+ref|YP_001191996.1,hypothetical protein Msed_1932 (gi|146304680),1,2,1,3,2,2
+ref|YP_001192001.1,hypothetical protein Msed_1937 (gi|146304685),2,2,2,3,2,1
+ref|YP_001192003.1,ATP:cob(I)alamin adenosyltransferase (gi|146304687),3,1,4,2,1,1
+ref|YP_001192004.2,leucyl-tRNA synthetase (gi|162149625),21,32,20,37,33,25
+ref|YP_001192006.1,histidinol phosphate aminotransferase (gi|146304690),2,3,5,3,3,3
+ref|YP_001192007.1,ATP phosphoribosyltransferase (gi|146304691),0,0,0,1,0,1
+ref|YP_001192009.1,imidazoleglycerol-phosphate dehydratase (gi|146304693),2,1,1,4,2,2
+ref|YP_001192010.1,imidazole glycerol phosphate synthase subunit HisF (gi|146304694),1,1,0,0,0,0
+ref|YP_001192011.1,histidinol dehydrogenase (gi|146304695),3,3,0,4,5,3
+ref|YP_001192012.1,phosphoribosyl-ATP pyrophosphatase (gi|146304696),1,1,0,1,2,0
+ref|YP_001192013.1,imidazole glycerol phosphate synthase subunit HisH (gi|146304697),1,1,1,2,2,1
+ref|YP_001192014.1,phosphoribosyl-AMP cyclohydrolase (gi|146304698),0,0,0,1,1,0
+ref|YP_001192015.1,hypothetical protein Msed_1951 (gi|146304699),1,0,0,0,0,0
+ref|YP_001192016.1,seryl-tRNA synthetase (gi|146304700),11,16,15,20,17,15
+ref|YP_001192017.1,radical SAM protein (gi|146304701),3,3,3,6,4,5
+ref|YP_001192018.1,hypothetical protein Msed_1954 (gi|146304702),15,14,13,11,11,9
+ref|YP_001192019.1,DNA-directed RNA polymerase M (gi|146304703),3,2,4,5,3,2
+ref|YP_001192020.1,AsnC family transcriptional regulator (gi|146304704),1,2,1,4,4,2
+ref|YP_001192022.1,hypothetical protein Msed_1958 (gi|146304706),7,6,8,4,5,5
+ref|YP_001192023.1,hypothetical protein Msed_1959 (gi|146304707),0,0,0,1,1,1
+ref|YP_001192024.1,"dihydroorotate oxidase B, catalytic subunit (gi|146304708)",2,3,4,3,2,1
+ref|YP_001192025.1,dihydroorotase (gi|146304709),0,0,0,0,1,0
+ref|YP_001192026.1,hypothetical protein Msed_1962 (gi|146304710),0,0,0,1,1,0
+ref|YP_001192027.1,aspartate carbamoyltransferase regulatory subunit (gi|146304711),1,1,1,2,2,2
+ref|YP_001192028.1,aspartate carbamoyltransferase catalytic subunit (gi|146304712),8,6,9,10,9,8
+ref|YP_001192029.1,orotate phosphoribosyltransferase (gi|146304713),10,9,8,7,6,4
+ref|YP_001192030.1,orotidine-5'-phosphate decarboxylase (gi|146304714),0,2,0,2,2,2
+ref|YP_001192032.1,phosphate uptake regulator PhoU (gi|146304716),0,0,0,1,0,1
+ref|YP_001192035.1,dihydrolipoamide dehydrogenase (gi|146304719),13,14,12,16,13,7
+ref|YP_001192040.1,methionyl-tRNA synthetase subunit beta (gi|146304724),0,0,0,1,1,1
+ref|YP_001192041.1,phosphoribosylaminoimidazole-succinocarboxamide synthase (gi|146304725),2,4,1,2,2,1
+ref|YP_001192042.1,hypothetical protein Msed_1978 (gi|146304726),1,2,0,1,0,0
+ref|YP_001192043.1,phosphoribosylformylglycinamidine synthase I (gi|146304727),2,3,3,0,0,0
+ref|YP_001192044.1,phosphoribosylformylglycinamidine synthase II (gi|146304728),2,3,1,2,1,0
+ref|YP_001192046.1,amidophosphoribosyltransferase (gi|146304730),1,2,0,3,2,2
+ref|YP_001192047.1,phosphoribosylamine--glycine ligase (gi|146304731),6,7,3,2,6,2
+ref|YP_001192048.1,phosphoribosylaminoimidazole synthetase (gi|146304732),1,1,0,1,1,1
+ref|YP_001192050.1,hypothetical protein Msed_1986 (gi|146304734),1,0,1,0,0,1
+ref|YP_001192051.1,argininosuccinate synthase (gi|146304735),2,2,1,8,6,6
+ref|YP_001192052.1,argininosuccinate lyase (gi|146304736),0,1,1,5,4,3
+ref|YP_001192053.1,carbamoyl phosphate synthase small subunit (gi|146304737),1,1,0,3,4,0
+ref|YP_001192054.1,carbamoyl phosphate synthase large subunit (gi|146304738),9,7,6,15,11,7
+ref|YP_001192055.1,L-2-aminoadipate N-acetyltransferase (gi|146304739),5,6,7,5,6,3
+ref|YP_001192056.1,haloacid dehalogenase superfamily protein (gi|146304740),1,2,1,3,2,0
+ref|YP_001192057.1,3-hydroxyacyl-CoA dehydrogenase (gi|146304741),1,2,2,4,3,1
+ref|YP_001192060.1,hypothetical protein Msed_1996 (gi|146304744),0,0,0,1,0,1
+ref|YP_001192061.1,hypothetical protein Msed_1997 (gi|146304745),12,7,3,8,6,8
+ref|YP_001192063.1,radical SAM protein (gi|146304747),0,2,0,0,0,0
+ref|YP_001192065.1,short chain enoyl-CoA hydratase (gi|146304749),12,14,10,12,8,8
+ref|YP_001192066.1,protoheme IX farnesyltransferase (gi|146304750),0,0,0,0,0,1
+ref|YP_001192067.1,homoserine dehydrogenase (gi|146304751),10,11,8,6,6,7
+ref|YP_001192070.1,peptidase U62 (gi|146304754),6,7,8,6,9,8
+ref|YP_001192071.1,peptidase U62 (gi|146304755),26,18,18,16,16,15
+ref|YP_001192072.1,UspA domain-containing protein (gi|146304756),9,10,9,12,9,10
+ref|YP_001192073.1,pyridine nucleotide-disulfide oxidoreductase dimerisation subunit (gi|146304757),9,12,10,9,9,9
+ref|YP_001192074.1,biotin--acetyl-CoA-carboxylase ligase (gi|146304758),0,0,0,1,0,1
+ref|YP_001192075.1,translation factor SUA5 (gi|146304759),8,7,7,6,8,6
+ref|YP_001192076.1,NADH-quinone oxidoreductase subunit B (gi|146304760),6,4,4,1,1,4
+ref|YP_001192077.1,hydroxypyruvate reductase (gi|146304761),0,0,0,1,0,0
+ref|YP_001192080.1,FeoA family protein (gi|146304764),0,0,1,2,2,1
+ref|YP_001192084.1,type 11 methyltransferase (gi|146304768),0,0,0,1,0,0
+ref|YP_001192085.1,signal-transduction protein (gi|146304769),0,0,0,1,0,0
+ref|YP_001192087.1,MoeA domain-containing protein (gi|146304771),1,1,1,2,1,1
+ref|YP_001192089.1,ATP-binding protein (gi|146304773),0,0,0,1,0,0
+ref|YP_001192090.1,amidohydrolase (gi|146304774),1,1,1,1,1,1
+ref|YP_001192091.1,transcriptional regulator TrmB (gi|146304775),12,10,16,6,8,6
+ref|YP_001192092.1,AbrB family transcriptional regulator (gi|146304776),29,28,27,26,26,26
+ref|YP_001192095.1,hypothetical protein Msed_2031 (gi|146304779),1,1,1,1,1,1
+ref|YP_001192097.1,hypothetical protein Msed_2033 (gi|146304781),3,5,5,6,5,4
+ref|YP_001192098.1,hypothetical protein Msed_2034 (gi|146304782),4,4,3,5,3,3
+ref|YP_001192099.1,hypothetical protein Msed_2035 (gi|146304783),1,0,0,0,0,0
+ref|YP_001192106.1,hypothetical protein Msed_2042 (gi|146304790),1,1,1,5,3,3
+ref|YP_001192107.1,replicative DNA helicase Mcm (gi|146304791),0,1,1,0,1,0
+ref|YP_001192108.1,hypothetical protein Msed_2044 (gi|146304792),0,0,0,2,1,1
+ref|YP_001192110.1,cell division control protein 6 (gi|146304794),1,0,0,2,1,1
+ref|YP_001192112.1,molybdenum cofactor biosynthesis protein MoaC (gi|146304796),1,0,1,2,1,1
+ref|YP_001192113.1,replication factor C large subunit (gi|146304797),5,7,5,11,8,4
+ref|YP_001192114.1,replication factor C small subunit (gi|146304798),12,13,17,18,19,13
+ref|YP_001192116.1,proteasome endopeptidase complex protein (gi|146304800),6,4,8,9,4,4
+ref|YP_001192119.1,cobalamin B12-binding domain-containing protein (gi|146304803),0,0,0,2,3,3
+ref|YP_001192120.1,LAO/AO transport system ATPase (gi|146304804),6,5,6,7,6,7
+ref|YP_001192122.1,alpha/beta fold family hydrolase/acetyltransferase-like protein (gi|146304806),1,1,1,0,0,0
+ref|YP_001192125.1,P-loop ATPase/GTPase-like protein (gi|146304809),2,2,1,0,0,1
+ref|YP_001192127.1,dihydrodipicolinate synthase (gi|146304811),18,12,17,11,8,9
+ref|YP_001192136.1,short-chain dehydrogenase/reductase SDR (gi|146304820),8,8,9,10,8,5
+ref|YP_001192138.1,Glu/Leu/Phe/Val dehydrogenase (gi|146304822),151,170,126,60,58,91
+ref|YP_001192139.1,hypothetical protein Msed_2075 (gi|146304823),4,3,3,2,1,2
+ref|YP_001192141.1,cysteinyl-tRNA synthetase (gi|146304825),15,21,18,24,23,23
+ref|YP_001192142.1,bifunctional phosphoglucose/phosphomannose isomerase (gi|146304826),14,16,14,13,13,12
+ref|YP_001192143.1,hypothetical protein Msed_2079 (gi|146304827),4,6,3,9,8,8
+ref|YP_001192144.1,NADPH:sulfur oxidoreductase (gi|146304828),11,6,9,11,8,9
+ref|YP_001192147.1,hypothetical protein Msed_2083 (gi|146304831),1,1,0,0,0,1
+ref|YP_001192148.1,thioesterase superfamily protein (gi|146304832),3,0,0,4,2,3
+ref|YP_001192151.1,acyl-CoA dehydrogenase domain-containing protein (gi|146304835),6,4,4,14,14,5
+ref|YP_001192152.1,protoporphyrin IX magnesium-chelatase (gi|146304836),2,1,1,1,1,1
+ref|YP_001192153.1,"hydrogenobyrinic acid a,c-diamide cobaltochelatase (gi|146304837)",6,9,6,10,11,8
+ref|YP_001192155.1,cobalamin (vitamin B12) biosynthesis protein CbiG (gi|146304839),0,1,0,1,1,0
+ref|YP_001192156.1,uroporphyrin-III C/tetrapyrrole methyltransferase (gi|146304840),0,0,0,1,0,0
+ref|YP_001192157.1,Fe3+-hydroxamate ABC transporter substrate-binding protein (gi|146304841),1,1,0,1,0,0
+ref|YP_001192159.1,alpha-isopropylmalate/homocitrate synthase family transferase (gi|146304843),3,3,2,5,3,1
+ref|YP_001192161.1,hypothetical protein Msed_2097 (gi|146304845),0,0,0,0,0,1
+ref|YP_001192162.1,hypothetical protein Msed_2098 (gi|146304846),1,1,1,0,0,0
+ref|YP_001192163.1,precorrin-8X methylmutase (gi|146304847),1,1,0,0,0,0
+ref|YP_001192166.1,"precorrin-6Y C5,15-methyltransferase (gi|146304850)",1,0,0,0,0,0
+ref|YP_001192178.1,signal transduction protein (gi|146304862),11,13,10,13,9,10
+ref|YP_001192179.1,hypothetical protein Msed_2116 (gi|146304863),8,9,8,13,11,11
+ref|YP_001192180.1,hypothetical protein Msed_2117 (gi|146304864),1,2,1,0,0,0
+ref|YP_001192182.1,alcohol dehydrogenase (gi|146304866),2,2,3,3,1,2
+ref|YP_001192183.1,GntR family transcriptional regulator (gi|146304867),40,43,47,33,28,25
+ref|YP_001192184.1,competence damage-inducible protein A (gi|146304868),1,3,1,4,3,3
+ref|YP_001192185.1,alpha/beta hydrolase fold protein (gi|146304869),11,10,10,12,9,6
+ref|YP_001192186.1,phenylalanyl-tRNA synthetase subunit beta (gi|146304870),19,21,21,19,16,14
+ref|YP_001192187.1,phenylalanyl-tRNA synthetase subunit alpha (gi|146304871),7,13,8,11,9,10
+ref|YP_001192188.1,metal-dependent hydrolase (gi|146304872),27,21,20,19,21,19
+ref|YP_001192189.1,methionine aminopeptidase (gi|146304873),8,8,9,7,8,6
+ref|YP_001192190.1,hypothetical protein Msed_2127 (gi|146304874),30,26,30,21,19,26
+ref|YP_001192191.1,hypothetical protein Msed_2128 (gi|146304875),0,0,1,1,1,1
+ref|YP_001192192.2,metal dependent phosphohydrolase (gi|154819280),5,6,5,4,4,7
+ref|YP_001192193.1,SPP-like hydrolase (gi|146304877),3,3,3,4,2,1
+ref|YP_001192194.1,glutamyl-tRNA synthetase (gi|146304878),16,17,17,25,22,14
+ref|YP_001192195.1,50S ribosomal protein L7Ae (gi|146304879),22,22,21,25,25,16
+ref|YP_001192197.1,glycosyl transferase family protein (gi|146304881),0,0,0,0,0,0
+ref|YP_001192198.1,geranyltranstransferase (gi|146304882),5,8,7,12,13,11
+ref|YP_001192199.1,isopentenyl pyrophosphate isomerase (gi|146304883),4,6,6,10,9,7
+ref|YP_001192202.1,hypothetical protein Msed_2139 (gi|146304886),2,1,2,1,1,1
+ref|YP_001192203.1,30S ribosomal protein S2 (gi|146304887),12,18,15,12,11,11
+ref|YP_001192204.1,DNA-directed RNA polymerase subunit N (gi|146304888),1,0,1,3,3,2
+ref|YP_001192205.1,30S ribosomal protein S9 (gi|146304889),11,12,11,9,11,10
+ref|YP_001192206.1,50S ribosomal protein L13 (gi|146304890),20,17,17,12,14,12
+ref|YP_001192207.1,50S ribosomal protein L18e (gi|146304891),25,22,17,20,15,14
+ref|YP_001192208.1,DNA-directed RNA polymerase D (gi|146304892),17,15,12,13,12,12
+ref|YP_001192209.1,30S ribosomal protein S11 (gi|146304893),17,16,16,16,11,12
+ref|YP_001192210.1,30S ribosomal protein S4 (gi|146304894),17,21,19,20,16,12
+ref|YP_001192211.1,30S ribosomal protein S13 (gi|146304895),22,22,18,18,15,17
+ref|YP_001192212.1,AIR synthase-like protein (gi|146304896),4,5,4,5,2,4
+ref|YP_001192213.1,hypothetical protein Msed_2150 (gi|146304897),2,0,2,1,0,1
+ref|YP_001192215.1,tyrosyl-tRNA synthetase (gi|146304899),23,24,21,17,16,18
+ref|YP_001192216.1,DNA primase (gi|146304900),14,17,13,16,9,11
+ref|YP_001192217.1,DNA polymerase II (gi|146304901),15,17,15,17,13,15
+ref|YP_001192219.1,cell division protein pelota (gi|146304903),1,1,1,1,1,0
+ref|YP_001192224.1,lysyl-tRNA synthetase (gi|146304908),7,11,9,14,12,12
+ref|YP_001192227.1,hypothetical protein Msed_2164 (gi|146304911),0,2,2,4,4,1
+ref|YP_001192229.1,hypothetical protein Msed_2166 (gi|146304913),2,0,0,1,0,0
+ref|YP_001192236.1,chromosome partitioning ATPase (gi|146304920),24,21,18,16,20,17
+ref|YP_001192240.1,resolvase domain-containing protein (gi|146304924),1,0,2,1,5,2
+ref|YP_001192241.1,tryptophanyl-tRNA synthetase (gi|146304925),9,11,9,10,16,12
+ref|YP_001192242.1,hypothetical protein Msed_2179 (gi|146304926),4,3,2,0,0,1
+ref|YP_001192244.1,Ala-tRNA(Pro) hydrolase (gi|146304928),8,7,6,7,5,6
+ref|YP_001192262.1,hypothetical protein Msed_2199 (gi|146304946),0,0,0,1,0,0
+ref|YP_001192265.1,peptide ABC transporter substrate-binding protein (gi|146304949),4,5,4,3,1,2
+ref|YP_001192266.1,peptide ABC transporter permease (gi|146304950),0,1,0,2,2,2
+ref|YP_001192268.1,oligopeptide/dipeptide ABC transporter ATPase (gi|146304952),2,2,0,7,5,3
+ref|YP_001192269.1,oligopeptide/dipeptide ABC transporter ATPase (gi|146304953),1,2,1,5,5,2
+ref|YP_001192270.1,selenocysteine-specific translation elongation factor-like protein (gi|146304954),3,4,2,3,2,3
+ref|YP_001192271.1,transcription initiation factor IIB (gi|146304955),8,9,9,8,7,6
+ref|YP_001192273.1,DNA-directed RNA polymerase subunit P (gi|146304957),1,1,1,1,1,1
+ref|YP_001192274.1,agmatinase (gi|146304958),9,9,7,3,8,3
+ref|YP_001192275.1,glycyl-tRNA synthetase (gi|146304959),16,15,10,18,20,11
+ref|YP_001192276.1,hypothetical protein Msed_2214 (gi|146304960),2,1,1,1,1,1
+ref|YP_001192278.1,hypothetical protein Msed_2216 (gi|146304962),5,2,3,9,5,4
+ref|YP_001192279.1,tRNA-splicing endonuclease subunit alpha (gi|146304963),0,0,0,2,0,0
+ref|YP_001192283.1,"ribulose-1,5-biphosphate synthetase (gi|146304967)",14,15,18,8,5,9
+ref|YP_001192284.1,30S ribosomal protein S24e (gi|146304968),24,20,18,18,20,18
+ref|YP_001192285.1,30S ribosomal protein S27AE (gi|146304969),1,1,1,0,0,0
+ref|YP_001192286.1,DNA-binding/iron metalloprotein/AP endonuclease (gi|146304970),1,1,1,1,1,1
+ref|YP_001192287.1,Mn2+-dependent serine/threonine protein kinase (gi|146304971),0,0,0,1,0,1
+ref|YP_001192288.1,RdgB/HAM1 family non-canonical purine NTP pyrophosphatase (gi|146304972),0,1,0,2,1,1
+ref|YP_001192289.1,aldo/keto reductase (gi|146304973),0,0,0,1,2,1
+ref|YP_001192291.1,hypothetical protein Msed_2229 (gi|146304975),13,11,13,12,9,9
+ref|YP_001192292.1,hypothetical protein Msed_2230 (gi|146304976),12,13,13,9,6,7
+ref|YP_001192293.1,"tRNA (adenine-57, 58-N(1)-) methyltransferase (gi|146304977)",2,1,3,5,3,2
+ref|YP_001192295.1,transcriptional regulator TrmB (gi|146304979),0,0,0,1,0,1
+ref|YP_001192296.1,30S ribosomal protein S25 (gi|146304980),10,18,12,22,20,11
+ref|YP_001192297.1,nitrilase/cyanide hydratase and apolipoprotein N-acyltransferase (gi|146304981),13,18,11,9,9,5
+ref|YP_001192298.1,reverse gyrase (gi|146304982),3,11,6,14,6,4
+ref|YP_001192299.1,AAA ATPase (gi|146304983),37,36,32,27,28,27
+ref|YP_001192300.1,cofactor-independent phosphoglycerate mutase (gi|146304984),9,12,8,10,6,8
+ref|YP_001192303.1,DNA-directed RNA polymerase subunit E' (gi|146304987),3,6,5,9,7,5
+ref|YP_001192305.1,translation initiation factor IF-2 (gi|146304989),12,15,13,18,15,16
+ref|YP_001192306.1,30S ribosomal protein S6e (gi|146304990),17,15,16,12,12,11
+ref|YP_001192307.1,sirohydrochlorin cobaltochelatase (gi|146304991),1,2,0,1,1,1
+ref|YP_001192309.1,30S ribosomal protein S15 (gi|146304993),21,22,21,20,25,19
+ref|YP_001192310.1,methionine synthase (gi|146304994),16,22,13,17,15,19
+ref|YP_001192311.1,5-methyltetrahydropteroyltriglutamate/homocysteine S-methyltransferase (gi|146304995),23,17,17,18,18,16
+ref|YP_001192312.1,DNA polymerase sliding clamp subunit A (gi|146304996),6,6,4,5,4,4
+ref|YP_001192313.1,Sm ribonucleoprotein-like protein (gi|146304997),0,1,0,0,1,0
+ref|YP_001192314.1,50S ribosomal protein L37e (gi|146304998),1,0,1,2,1,1
+ref|YP_001192315.1,spermine synthase (gi|146304999),11,10,7,6,7,3
+ref|YP_001192316.1,beta-lactamase domain-containing protein (gi|146305000),9,10,10,16,13,8
+ref|YP_001192317.1,NAD(P)-dependent glycerol-1-phosphate dehydrogenase (gi|146305001),1,0,0,1,1,1
+ref|YP_001192318.1,FKBP-type peptidylprolyl isomerase (gi|146305002),18,19,16,27,25,17
+ref|YP_001192319.1,S-adenosyl-L-homocysteine hydrolase (gi|146305003),25,24,18,23,18,17
+ref|YP_001192320.1,ATPase RIL (gi|146305004),3,6,6,7,6,7
+ref|YP_001192321.1,"D-fructose 1,6-bisphosphatase (gi|146305005)",49,46,39,37,32,28
+ref|YP_001192322.1,30S ribosomal protein S17e (gi|146305006),2,2,3,3,4,4
+ref|YP_001192326.1,thermosome (gi|146305010),116,124,103,100,99,91
+ref|YP_001192329.1,histidyl-tRNA synthetase (gi|146305013),5,8,5,10,11,5
+ref|YP_001192330.1,proteasome endopeptidase complex protein (gi|146305014),11,14,11,11,12,8
+ref|YP_001192331.1,translation initiation factor 2B subunit I (gi|146305015),9,17,13,18,22,12
+ref|YP_001192333.1,hypothetical protein Msed_2271 (gi|146305017),1,2,2,4,4,3
+ref|YP_001192334.1,7-cyano-7-deazaguanine tRNA-ribosyltransferase (gi|146305018),2,4,2,4,4,4
+ref|YP_001192335.1,hypothetical protein Msed_2273 (gi|146305019),8,11,8,13,11,10
+ref|YP_001192336.1,PUA domain-containing protein (gi|146305020),0,0,0,1,0,0
+ref|YP_001192337.1,proteasome-activating nucleotidase (gi|146305021),2,0,3,0,0,2
+ref|YP_001192338.1,XRE family transcriptional regulator (gi|146305022),0,0,0,1,2,1
+ref|YP_001192339.1,small GTP-binding protein (gi|146305023),1,0,0,0,0,0
+ref|YP_001192340.1,hypothetical protein Msed_2278 (gi|146305024),0,0,0,1,0,0
+ref|YP_001192341.1,transcription factor IIE (TFIIE) subunit alpha (gi|146305025),0,0,0,1,0,0
+ref|YP_001192342.1,DNA-cytosine methyltransferase (gi|146305026),0,0,0,0,1,1
+ref|YP_001192343.1,exonuclease-like protein (gi|146305027),1,0,1,5,6,3
+ref|YP_001192348.1,ribose-5-phosphate isomerase (gi|146305032),8,7,5,6,5,6
+ref|YP_001192351.1,hypothetical protein Msed_2290 (gi|146305035),0,0,0,0,1,2
+ref|YP_001192352.1,geranylgeranylglyceryl phosphate synthase (gi|146305036),0,0,0,2,2,2
+ref|YP_001192353.1,preprotein translocase subunit SecG (gi|146305037),1,1,0,1,2,2
+ref|YP_001192356.1,AsnC family transcriptional regulator (gi|146305040),3,4,4,2,1,1
