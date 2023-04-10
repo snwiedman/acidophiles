@@ -1,0 +1,33 @@
+import csv
+from scipy.stats import ttest_ind
+
+#open and seperate data
+genes = []
+data = []
+first = True
+
+with open('/Users/stephaniewiedman/Downloads/genetics/fe_no_fe.csv') as csvfile:
+    csv_reader = csv.reader(csvfile, delimiter=",")
+    for column in csv_reader:
+        if first:
+            sample_names = column[2:]
+            first = False
+        else:
+            data.append(column[2:])
+            genes.append(column[0])
+
+p = 0
+correct = []
+while p<len(data):
+    lines = data[p]
+    with_iron = lines[:3]
+    res = [eval(i) for i in with_iron]
+    without_iron = lines[3:]
+    res_2 = [eval(i) for i in without_iron]
+    t_stat, p_value = ttest_ind(res, res_2)
+    if p_value < .05:
+        correct.append(genes[p])
+    p+=1
+
+for items in correct:
+    print(items[-7:])
