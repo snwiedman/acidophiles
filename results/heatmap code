@@ -1,0 +1,38 @@
+
+import matplotlib.pyplot as plt
+import numpy as np
+
+import seaborn as sns
+from sklearn.decomposition import FactorAnalysis, PCA
+from sklearn.preprocessing import StandardScaler
+import pandas as pd
+from sklearn.datasets import load_iris
+from openpyxl import load_workbook
+
+data = []
+genes = []
+first = True
+
+with open('/Users/stephaniewiedman/Downloads/genetics/fe_no_fe.csv') as csvfile:
+    csv_reader = csv.reader(csvfile, delimiter=",")
+    for row in csv_reader:
+        if first:
+            sample_names = row[2:]
+            first = False
+        else:
+            data.append(row[2:])
+            genes.append(row[0])
+
+            
+data = np.array(data).astype(int)
+
+sns.set_context("paper", font_scale=0.05)
+sns_plot = sns.clustermap(data, xticklabels=sample_names, yticklabels=genes, cmap="crest")
+sns_plot.ax_heatmap.tick_params(axis='x', labelsize=8)
+sns_plot.ax_heatmap.tick_params(axis='y', labelsize=4)
+
+# Set the y-axis limits to show only the last rows of the data
+sns_plot.ax_heatmap.set_ylim(1115, 1141)
+
+sns_plot.savefig("heatmap_10.pdf")
+plt.show()
