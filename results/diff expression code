@@ -1,0 +1,36 @@
+#load deseq object
+library(DESeq2)
+dds <- DESeqDataSetFromMatrix(countData=df2, colData=df1, design=~condition)
+dds <- DESeq(dds)
+
+#make PCA plot of deseq object
+rld <- rlog(dds)
+plotPCA(rld)
+
+#filter out results with no p adjusted value
+yes <- results(dds)
+yes2 <- subset(yes, padj != 'NA')
+
+#other filtering for more differential genes (based on dataset)
+yes3 <- subset(yes2, padj < .5)
+yes3 <- subset(yes2, log2FoldChange > 1 | log2FoldChange < -1)
+
+#make heatmap of filtered genes
+library(pheatmap)
+merg <- merge(df2, data.frame(yes3), by = 0)
+merg2 <- merg[,2:7]
+rownames(merg2) <- merg$Row.names
+mat_scaled <- scale(t(merg2))
+pheatmap(t(mat_scaled), labels_row = okay)
+
+#make volcano plot
+library(EnhancedVolcano)
+> EnhancedVolcano(yes,
+                  lab = rownames(yes),
+                  x = 'log2FoldChange',
+                  y = 'pvalue',
+                  title = 'Fe vs no Fe',
+                  pCutoff = .01,
+                  FCcutoff = 0.5,
+                  pointSize = 3.0,
+                  labSize = 2.0) + coord_flip()
